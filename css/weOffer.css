@@ -1,0 +1,425 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	color: #FAFAFA;
+	line-height: 26px;
+}
+
+#container {
+	height: 100%;
+	width: 100%;
+    max-width: 2560px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.container {
+    margin-top: 61px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 182px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 17px;
+}
+
+#navbarHome {
+	margin-bottom: -7px;
+}
+
+.navBarLogo {
+    width: 13%;
+    height: 180px;
+    position: absolute;
+    margin-left: 35%;
+    margin-top: -59px;
+}
+
+#firstContainer {
+    width: 100%;
+    height: 500px;
+    
+}
+
+#firstLeftContainer {
+    width: 67%;
+    height: 500px;
+    position: absolute;
+    float: left;
+    background-color: #df5490;
+}
+
+#firstLeftContainerText {
+	width: 84%;
+	height: 350px;	
+    margin-left: 8%;
+    margin-top: 24px;
+}
+
+#firstLeftContainerTextFont {
+	font-size: 25px;
+}
+
+.firstLeftContainerTextFont {
+	font-size: 16px;
+}
+
+#firstRightContainer {
+    float: right;
+    width: 33%;
+    height: 500px;
+    
+}
+
+#zsigetBackground {
+	width: 100%;
+	height: 500px;
+}
+
+#secondContainer {
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#secondLeftContainer {
+    width: 33%;
+    height: 500px;
+    float: left;
+}
+
+#secondCenterContainer {
+    width: 34%;
+    height: 500px;
+    float: left;
+}
+
+#secondRightContainer {
+    width: 33%;
+    height: 500px;
+    float: left;
+}
+
+#thirdContainer {
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#thirdLeftContainer {
+    width: 33%;
+    height: 500px;
+    float: left;
+}
+
+#thirdCenterContainer {
+    width: 34%;
+    height: 500px;
+    float: left;
+}
+
+#thirdRightContainer {
+    float: left;
+    width: 33%;
+    height: 500px;
+    
+}
+
+#forthContainer {
+    width: 100%;
+    height: 500px;
+    position: relative;
+    
+}
+
+#forthLeftContainer {
+    width: 33%;
+    height: 500px;
+    float: left;
+}
+
+#forthCenterContainer {
+    width: 34%;
+    height: 500px;
+    float: left;
+}
+
+#forthRightContainer {
+    float: left;
+    width: 33%;
+    height: 500px;
+    background-color: #df5490;
+}
+
+#forthRightContainerText {
+	height: 250px;
+	width: 71%;
+    margin-left: 20%;
+    margin-top: 130px;
+}
+
+.forthRightContainerText {
+	font-size: 25px;
+	color: white;
+}
+
+#footerWeOffer {
+	height: 500px;
+	width: 100%;
+	
+}
+
+#footerWeOfferText {
+	height:300px;
+	width: 70%;
+    margin-left: 15%;
+    margin-top: 100px;
+    background-color: white;
+    color: #df5490;
+}
+
+.footerWeOfferText {
+	font-size: 24px; 
+	color: #cb4a78;
+}
+
+#faceLogo {
+    float: right;
+}
+
+.impressumMail {
+	color: #df5490; 
+	font-size: 24px;
+}
+
+/*MEDIA QUERIES*/
+
+@media only screen and (min-width: 2560px) {
+
+.navBarLogo {
+    width: 13%;
+    height: 180px;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -59px;
+}
+
+.container {
+    width: 89%;
+}
+
+}
+
+@media only screen and (max-width: 1024px) { 
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 15px;
+}
+
+.navBarLogo {
+    width: 20%;
+    height: 193px;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: -37px;
+}
+
+#firstLeftContainerTextFont {
+	font-size: 22px;
+}
+
+#firstLeftContainerText {
+    width: 84%;
+    height: 350px;
+    margin-left: 8%;
+    margin-top: -18px;
+}
+
+.firstLeftContainerTextFont {
+	font-size: 15px;
+}
+.forthRightContainerText {
+	font-size: 22px;
+	color: white;
+}
+
+.footerWeOfferText {
+	font-size: 20px; 
+	color: #cb4a78;
+}
+
+.impressumMail {
+	color: #df5490; 
+	font-size: 20px;
+}
+
+#faceLogo {
+    float: right;
+    margin-top: 36px;
+}
+
+
+}
+
+@media only screen and (max-width: 768px) { 
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 13px;
+}
+
+.navBarLogo {
+    display: none;
+}
+
+#firstLeftContainerTextFont {
+	font-size: 18px;
+}
+
+.firstLeftContainerTextFont {
+	font-size: 13px;
+}
+
+.forthRightContainerText {
+	font-size: 18px;
+	color: white;
+}
+
+.footerWeOfferText {
+	font-size: 16px; 
+	color: #cb4a78;
+}
+
+.impressumMail {
+	color: #df5490; 
+	font-size: 16px;
+}
+
+#faceLogo {
+    margin-top: -2px;
+}
+
+
+}
+
+@media only screen and (max-width: 425px) {
+
+#firstLeftContainerText {
+    width: 84%;
+    height: 350px;
+    margin-left: 8%;
+    margin-top: -17px;
+}
+
+#firstLeftContainerTextFont {
+	font-size: 15px;
+}
+
+.firstLeftContainerTextFont {
+	font-size: 12px;
+}
+
+#firstLeftContainer {
+    width: 100%;
+    height: 500px;
+    float: left;
+    background-color: #df5490;
+    position: relative;
+}
+
+#firstRightContainer {
+    float: right;
+    width: 100%;
+    height: 500px;
+}
+
+#secondLeftContainer {
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+
+#secondCenterContainer {
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+
+#secondRightContainer {
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+
+#thirdLeftContainer {
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+
+#thirdCenterContainer {
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+
+#thirdRightContainer {
+    float: left;
+    width: 100%;
+    height: 500px;
+    
+}
+
+#forthLeftContainer {
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+
+#forthCenterContainer {
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+
+#forthRightContainer {
+    float: left;
+    width: 100%;
+    height: 500px;
+    background-color: #df5490;
+}
+
+#forthRightContainerText {
+	height: 250px;
+	width: 71%;
+    margin-left: 20%;
+    margin-top: 130px;
+}
+
+.forthRightContainerText {
+    font-size: 15px;
+    color: white;
+}
+
+#zsigetBackground {
+    width: 100%;
+    height: 501px;
+}
+
+.footerWeOfferText {
+	font-size: 12px;
+}
+
+.impressumMail {
+	font-size: 12px;
+}
+
+}

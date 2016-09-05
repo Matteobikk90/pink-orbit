@@ -1,0 +1,611 @@
+body {
+    font-family: 'Montserrat', sans-serif; 
+    color: #FAFAFA;
+    line-height: 26px;
+}
+
+#container {
+	height: 100%;
+    max-width: 2560px;
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+}
+
+.container {
+    margin-top: 61px;
+}
+
+#navBarHome {
+    width: 100%;
+    height: 182px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 182px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 17px;
+}
+
+#navbarHome {
+    margin-bottom: -7px;
+}
+
+.navBarLogo {
+    width: 13%;
+    height: 180px;
+    position: absolute;
+    margin-left: 35%;
+    margin-top: -59px;
+}
+
+#homeLogo {
+    width: 13%;
+    height: 183px;
+    margin-left: 43%;
+}
+
+#firstBackground {
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url("../img/headerHome.png");
+}
+
+#threeDivsMainContainer {
+    width: 100%;
+    height: 400px;
+    position: relative;
+}
+
+#threeDivsMainContainerInside {
+    width: 64%;
+    height: 183px;
+    margin-left: 18%;
+    margin-top: 93px;
+}
+
+#threeDivsMainContainerInsideLinks {
+    width: 64%;
+    height: 131px;
+    margin-left: 18%;
+
+}
+
+#threeDivsMainContainerLeft {
+    width: 28%;
+    height: 183px;
+    background-size: cover;
+    background-image: url("../img/thirdRightHomeImg.png");
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+}
+
+#threeDivsMainContainerCenter {
+    width: 28%;
+    height: 183px;
+    background-size: cover;
+    background-image: url("../img/secondCenterHomeImg.png");
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+}
+
+#threeDivsMainContainerRight {
+    width: 28%;
+    height: 183px;
+    background-size: cover;
+    background-image: url("../img/firstLeftHomeImg.png");
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+}
+
+.linksInside {
+    color: #df5490;
+    font-size: 22px;
+    margin-top: 51px;
+    list-style: none;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+}
+
+a {
+    color: #df5490
+}
+
+#leftLink {
+    width: 28%;
+    height: 131px;
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+#centerLink {
+    width: 28%;
+    height: 131px;
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+#rightLink {
+    width: 28%;
+    height: 131px;
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+#zsigetPhoto {
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url("../img/footerHome.png");
+}
+
+#zsigetPhotoText {
+    height: 150px;
+    width: 51%;
+    text-align: center;
+    margin-left: 23%;
+    margin-top: 175px;
+    position: absolute;
+    font-size: 22px;
+}
+
+#footerWeOffer {
+    height: 400px;
+    width: 100%;
+    
+}
+
+#footerWeOfferText {
+    height:335px;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 90px;
+    background-color: white;
+    color: #df5490;
+}
+
+.footerWeOfferText {
+    font-size: 22px; 
+    color: #cb4a78;
+}
+
+#faceLogo {
+    float: left;
+    height: 250px;
+}
+
+.impressumMail {
+    color: #df5490; 
+    font-size: 22px;
+}
+
+#footerWeOfferLeft {
+    width: 66%;
+    height: 335px;
+    float: left;
+}
+
+/*Media Queries*/
+
+@media only screen and (min-width: 2560px) {
+
+body {
+    font-size: 18px;
+}
+
+.navBarLogo {
+    width: 13%;
+    height: 180px;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -59px;
+}
+
+.container {
+    width: 89%;
+}
+
+#firstBackground {
+    height: 900px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url("../img/headerHome.png");
+}
+
+#threeDivsMainContainer {
+    width: 100%;
+    height: 567px;
+    position: relative;
+}
+
+#threeDivsMainContainerInside {
+    width: 64%;
+    height: 342px;
+    margin-left: 18%;
+    margin-top: 93px;
+}
+
+#threeDivsMainContainerLeft {
+    width: 28%;
+    height: 342px;
+    background-size: cover;
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+}
+
+#threeDivsMainContainerCenter {
+    width: 28%;
+    height: 342px;
+    background-size: cover;
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+}
+
+#threeDivsMainContainerRight {
+    width: 28%;
+    height: 342px;
+    background-size: cover;
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+}
+
+#zsigetPhotoText {
+    margin-top: 200px;
+}
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+#threeDivsMainContainer {
+    width: 100%;
+    height: 320px;
+    position: relative;
+}
+
+#threeDivsMainContainerInside {
+    width: 64%;
+    height: 126px;
+    margin-left: 18%;
+    margin-top: 93px;
+}
+
+#threeDivsMainContainerLeft {
+    height: 126px;
+}
+
+#threeDivsMainContainerCenter {
+    height: 126px;
+}
+
+#threeDivsMainContainerRight {
+    height: 126px;
+}
+
+#leftLink {
+    height: 100px;
+}
+
+#centerLink {
+    height: 100px;
+}
+
+#rightLink {
+    height: 100px;
+}
+
+.linksInside {
+    color: #df5490;
+    font-size: 18px;
+    margin-top: 36px;
+    list-style: none;
+}
+
+#zsigetPhotoText {
+    height: 150px;
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+    margin-top: 175px;
+    position: absolute;
+    font-size: 18px;
+}
+
+#footerWeOfferLeft {
+    width: 74%;
+    height: 335px;
+    font-size: 18px;
+    float: left;
+}
+
+#faceLogo {
+    float: right;
+    width: 25%;
+    height: 97px;
+    /* position: absolute; */
+}
+
+}
+
+@media only screen and (max-width: 768px) {
+
+body {
+    font-size: 17px;
+}
+
+.navBarLogo {
+    width: 17%;
+    height: 116px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -36px;
+}
+
+.aLogo {
+    width: 89%;
+    height: 126px;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 114px;
+}
+
+.navbar-brand {
+    display: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 16px;
+}
+
+#firstBackground {
+    height: 282px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/headerHome.png);
+}
+
+#threeDivsMainContainer {
+    width: 100%;
+    height: 266px;
+    position: relative;
+}
+
+#leftLink {
+    height: 68px;
+    margin-top: -23px;
+}
+
+#centerLink {
+    height: 68px;
+    margin-top: -23px;
+}
+
+#rightLink {
+    height: 68px;
+    margin-top: -23px;
+}
+
+.linksInside {
+    color: #df5490;
+    font-size: 16px;
+    margin-top: 20px;
+    list-style: none;
+}
+
+#zsigetPhoto {
+    height: 332px;
+    width: 100%;
+}
+
+#zsigetPhotoText {
+    height: 150px;
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+    margin-top: 105px;
+    position: absolute;
+    font-size: 16px;
+}
+
+#footerWeOfferText {
+    height: 348px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 90px;
+    background-color: white;
+    color: #df5490;
+}
+
+.footerWeOfferText {
+    font-size: 16px;
+}
+
+.impressumMail {
+    font-size: 16px;
+}
+
+}
+
+@media only screen and (max-width: 425px) {
+
+.navBarLogo {
+    width: 27%;
+    height: 114px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -36px;
+}
+
+.aLogo {
+    width: 104%;
+    height: 126px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 14px;
+}
+
+.navbar-collapse, .navHeaderCollapse, .collapse in{
+    background-color: white;
+    margin-top: 83px;
+    margin-left: 68%;
+    width: 36%;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    margin-left: 68%;
+}
+
+#firstBackground {
+    height: 235px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/headerHome.png);
+}
+
+#threeDivsMainContainer {
+    width: 100%;
+    height: 205px;
+    position: relative;
+}
+
+#threeDivsMainContainerInside {
+    width: 100%;
+    height: 130px;
+    margin-left: 0%;
+    margin-top: 43px;
+}
+
+#leftLink {
+    height: 68px;
+    margin-top: -41px;
+}
+
+#centerLink {
+    height: 68px;
+    margin-top: -41px;
+}
+
+#rightLink {
+    height: 68px;
+    margin-top: -41px;
+}
+
+#threeDivsMainContainerInsideLinks {
+    width: 100%;
+    height: 131px;
+    margin-left: 0%;
+}
+
+#zsigetPhotoText {
+    height: 190px;
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 50px;
+    position: absolute;
+    font-size: 14px;
+}
+
+#zsigetPhoto {
+    height: 235px;
+    width: 100%;
+}
+
+#footerWeOffer {
+    height: 369px;
+    width: 100%;
+}
+
+#footerWeOfferText {
+    height: 348px;
+    width: 96%;
+    margin-left: 4%;
+    margin-top: 27px;
+    background-color: white;
+    color: #df5490;
+}
+
+.footerWeOfferText {
+    font-size: 14px;
+}
+
+#footerWeOfferLeft {
+    width: 96%;
+    height: 335px;
+    font-size: 14px;
+    /* float: left; */
+}
+
+#faceLogo {
+    margin-left: -10%;
+    float: left;
+    width: 33%;
+    margin-top: -85px;
+}
+
+.impressumMail {
+    font-size: 14px;
+}
+
+.linksInside {
+    font-size: 14px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
