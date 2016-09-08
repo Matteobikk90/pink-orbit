@@ -14,11 +14,22 @@ body {
 
 .container {
     margin-top: 61px;
+    width: 91%;
+}
+
+a:hover {
+    color: #df5490;
 }
 
 #navBarHome {
     width: 100%;
     height: 182px;
+}
+
+#navbarHome {
+    width: 33px;
+    height: 34px;
+    margin-top: -8px;
 }
 
 .navbar {
@@ -37,6 +48,8 @@ body {
 
 #navbarHome {
     margin-bottom: -7px;
+    width: 33px;
+    height: 34px;
 }
 
 .navBarLogo {
@@ -58,7 +71,8 @@ body {
     width: 100%;
     background-size: cover;
     background-position: center;
-    background-image: url("../img/headerHome.png");
+    background-image: url(../img/headerHome.png);
+    margin-top: 180px;
 }
 
 #threeDivsMainContainer {
@@ -83,7 +97,7 @@ body {
 
 #threeDivsMainContainerLeft {
     width: 28%;
-    height: 183px;
+    height: 314px;
     background-size: cover;
     background-image: url("../img/thirdRightHomeImg.png");
     float: left;
@@ -93,7 +107,7 @@ body {
 
 #threeDivsMainContainerCenter {
     width: 28%;
-    height: 183px;
+    height: 314px;
     background-size: cover;
     background-image: url("../img/secondCenterHomeImg.png");
     float: left;
@@ -103,7 +117,7 @@ body {
 
 #threeDivsMainContainerRight {
     width: 28%;
-    height: 183px;
+    height: 314px;
     background-size: cover;
     background-image: url("../img/firstLeftHomeImg.png");
     float: left;
@@ -114,8 +128,9 @@ body {
 .linksInside {
     color: #df5490;
     font-size: 22px;
-    margin-top: 51px;
+    margin-top: 239px;
     list-style: none;
+    height: 26px;
 }
 
 ul {
@@ -125,33 +140,6 @@ ul {
 
 a {
     color: #df5490
-}
-
-#leftLink {
-    width: 28%;
-    height: 131px;
-    float: left;
-    margin-left: 4%;
-    text-align: center;
-    border: 1px solid grey;
-}
-
-#centerLink {
-    width: 28%;
-    height: 131px;
-    float: left;
-    margin-left: 4%;
-    text-align: center;
-    border: 1px solid grey;
-}
-
-#rightLink {
-    width: 28%;
-    height: 131px;
-    float: left;
-    margin-left: 4%;
-    text-align: center;
-    border: 1px solid grey;
 }
 
 #zsigetPhoto {
@@ -210,7 +198,7 @@ a {
 
 /*Media Queries*/
 
-@media only screen and (min-width: 2560px) {
+@media only screen and (max-width: 2560px) and (min-width: 1441px) {
 
 body {
     font-size: 18px;
@@ -284,6 +272,23 @@ body {
 
 @media only screen and (max-width: 1024px) {
 
+.navBarLogo {
+    width: 16%;
+    height: 142px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -43px;
+}
+
+.navbar-brand {
+    display: none;
+}
+
+.aLogo {
+    width: 89%;
+    height: 126px;
+}
+
 #threeDivsMainContainer {
     width: 100%;
     height: 320px;
@@ -298,15 +303,15 @@ body {
 }
 
 #threeDivsMainContainerLeft {
-    height: 126px;
+    height: 236px;
 }
 
 #threeDivsMainContainerCenter {
-    height: 126px;
+    height: 236px;
 }
 
 #threeDivsMainContainerRight {
-    height: 126px;
+    height: 236px;
 }
 
 #leftLink {
@@ -324,8 +329,9 @@ body {
 .linksInside {
     color: #df5490;
     font-size: 18px;
-    margin-top: 36px;
+    margin-top: 172px;
     list-style: none;
+    height: 26px;
 }
 
 #zsigetPhotoText {
@@ -394,6 +400,7 @@ body {
 #firstBackground {
     height: 282px;
     width: 100%;
+    margin-top: 111px;
     background-size: cover;
     background-position: center;
     background-image: url(../img/headerHome.png);
@@ -401,8 +408,15 @@ body {
 
 #threeDivsMainContainer {
     width: 100%;
-    height: 266px;
+    height: 300px;
     position: relative;
+}
+
+#threeDivsMainContainerInside {
+    width: 90%;
+    height: 126px;
+    margin-left: 5%;
+    margin-top: 65px;
 }
 
 #leftLink {
@@ -423,8 +437,9 @@ body {
 .linksInside {
     color: #df5490;
     font-size: 16px;
-    margin-top: 20px;
+    margin-top: 172px;
     list-style: none;
+    width: 100%;
 }
 
 #zsigetPhoto {
@@ -476,6 +491,16 @@ body {
     height: 126px;
 }
 
+.container {
+    margin-top: 15px;
+    width: 100%;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 78px;
+}
+
 .navbar-default .navbar-nav>li>a {
     color: #df5490;
     font-size: 14px;
@@ -483,14 +508,14 @@ body {
 
 .navbar-collapse, .navHeaderCollapse, .collapse in{
     background-color: white;
-    margin-top: 83px;
+    margin-top: 62px;
     margin-left: 68%;
     width: 36%;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #e7e7e7;
-    margin-left: 68%;
+    margin-left: 75%;
 }
 
 #firstBackground {
@@ -499,6 +524,7 @@ body {
     background-size: cover;
     background-position: center;
     background-image: url(../img/headerHome.png);
+    margin-top: 77px;
 }
 
 #threeDivsMainContainer {
@@ -514,19 +540,16 @@ body {
     margin-top: 43px;
 }
 
-#leftLink {
-    height: 68px;
-    margin-top: -41px;
+#threeDivsMainContainerLeft {
+    height: 164px;
 }
 
-#centerLink {
-    height: 68px;
-    margin-top: -41px;
+#threeDivsMainContainerCenter {
+    height: 164px;
 }
 
-#rightLink {
-    height: 68px;
-    margin-top: -41px;
+#threeDivsMainContainerRight {
+    height: 164px;
 }
 
 #threeDivsMainContainerInsideLinks {
@@ -569,7 +592,7 @@ body {
 }
 
 #footerWeOfferLeft {
-    width: 96%;
+    width: 100%;
     height: 335px;
     font-size: 14px;
     /* float: left; */
@@ -577,9 +600,9 @@ body {
 
 #faceLogo {
     margin-left: -10%;
-    float: left;
+    /* float: left; */
     width: 33%;
-    margin-top: -85px;
+    margin-top: -120px;
 }
 
 .impressumMail {
@@ -587,12 +610,105 @@ body {
 }
 
 .linksInside {
+    font-size: 12px;
+    margin-top: 117px;
+}
+
+ul {
+    margin-left: -13%;
+}
+
+}
+
+@media only screen and (max-width: 375px) {
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    margin-left: 69%;
+    width: 43%;
+}
+
+#threeDivsMainContainer {
+    width: 100%;
+    height: 206px;
+    position: relative;
+}
+
+#zsigetPhotoText {
+    height: 190px;
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 20px;
+    position: absolute;
     font-size: 14px;
 }
 
+#leftLink {
+    height: 68px;
+    margin-top: -52px;
+}
+
+#centerLink {
+    height: 68px;
+    margin-top: -52px;
+}
+
+#rightLink {
+    height: 68px;
+    margin-top: -52px;
+}
+
+#faceLogo {
+    margin-left: -10%;
+    /* float: left; */
+    width: 37%;
+    margin-top: -93px;
+}
+
+}
+
+@media only screen and (max-width: 320px) {
+
+.linksInside {
+    font-size: 12px;
+    margin-top: 82px;
+}
+
+#threeDivsMainContainer {
+    width: 100%;
+    height: 160px;
+    position: relative;
+}
+
+#threeDivsMainContainerLeft {
+    height: 122px;
+}
+
+#threeDivsMainContainerCenter {
+    height: 122px;
+}
+
+#threeDivsMainContainerRight {
+    height: 122px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    width: 48%;
+    margin-left: 65%;
+}
+
+#faceLogo {
+    /* margin-left: -10%; */
+    /* float: left; */
+    margin-right: 8px;
+    width: 35%;
+    margin-top: -89px;
 }
 
 
+
+}
 
 
 

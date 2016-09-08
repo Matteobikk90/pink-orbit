@@ -1,15 +1,15 @@
 body {
-	font-family: 'Montserrat', sans-serif;
-	color: #FAFAFA;
-	line-height: 26px;
+    font-family: 'Montserrat', sans-serif;
+    color: #FAFAFA;
+    line-height: 26px;
 }
 
 #container {
-	height: 100%;
-	width: 100%;
+    height: 100%;
+    width: 100%;
     max-width: 2560px;
-	margin: 0 auto;
-	position: relative;
+    margin: 0 auto;
+    position: relative;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 }
 
 #navbarHome {
-	margin-top: -8px;
+    margin-top: -8px;
     width: 33px;
     height: 34px;
 }
@@ -41,18 +41,14 @@ body {
     width: 13%;
     height: 180px;
     position: absolute;
-    margin-left: 37%;
+    margin-left: 35%;
     margin-top: -59px;
-}
-
-a:hover {
-    color: #df5490;
 }
 
 #firstContainer {
     width: 100%;
     height: 500px;
-    margin-top: 182px;
+    margin-top: 181px;
 }
 
 #firstLeftContainer {
@@ -64,20 +60,18 @@ a:hover {
 }
 
 #firstLeftContainerText {
-    width: 84%;
+    width: 73%;
     height: 350px;
-    margin-left: 8%;
-    margin-top: 86px;
-
-    letter-spacing: 1px;
+    margin-left: 15%;
+    margin-top: 158px;
 }
 
 #firstLeftContainerTextFont {
-	font-size: 22px;
+    font-size: 22px;
 }
 
 .firstLeftContainerTextFont {
-	font-size: 17px;
+    font-size: 17px;
 }
 
 #firstRightContainer {
@@ -104,8 +98,8 @@ a:hover {
 }
 
 #zsigetBackground {
-	width: 100%;
-	height: 500px;
+    width: 100%;
+    height: 500px;
 }
 
 #secondContainer {
@@ -154,6 +148,7 @@ a:hover {
     background-size: cover;
     background-image: url("../img/festivals_equipment.png");
     background-position: center;
+    border-bottom: 1px solid #df5490;
 }
 
 #thirdCenterContainer {
@@ -163,6 +158,7 @@ a:hover {
     background-size: cover;
     background-image: url("../img/event_&festivalmanagment.png");
     background-position: center;
+    border-bottom: 1px solid #df5490;
 }
 
 #thirdRightContainer {
@@ -172,53 +168,8 @@ a:hover {
     background-size: cover;
     background-image: url("../img/messe_auf-.png");
     background-position: center;
+    border-bottom: 1px solid #df5490;
     
-}
-
-#forthContainer {
-    width: 100%;
-    height: 500px;
-    position: relative;
-    
-}
-
-#forthLeftContainer {
-    width: 33%;
-    height: 500px;
-    float: left;
-    background-size: cover;
-    background-image: url("../img/tribuenen.png");
-    background-position: center;
-    border-bottom: 3px solid #df5490;
-}
-
-#forthCenterContainer {
-    width: 34%;
-    height: 500px;
-    float: left;
-    background-size: cover;
-    background-image: url("../img/fil&teknik.png");
-    background-position: center;
-    border-bottom: 3px solid #df5490;
-}
-
-#forthRightContainer {
-    float: left;
-    width: 33%;
-    height: 500px;
-    background-color: #df5490;
-}
-
-#forthRightContainerText {
-    height: 250px;
-    width: 56%;
-    margin-left: 24%;
-    margin-top: 130px;
-}
-
-.forthRightContainerText {
-	font-size: 17px;
-	color: white;
 }
 
 #footerWeOffer {
@@ -266,6 +217,10 @@ a {
     color: #df5490
 }
 
+h6 {
+    font-size: 18px;
+}
+
 /*MEDIA QUERIES*/
 
 @media only screen and (max-width: 2560px) and (min-width: 1441px) {
@@ -296,9 +251,9 @@ a {
 }
 
 #firstLeftContainerText {
-    width: 84%;
+    width: 40%;
     height: 228px;
-    margin-left: 8%;
+    margin-left: 28%;
     margin-top: 216px;
 }
 
@@ -475,8 +430,8 @@ a {
 
 #firstContainer {
     width: 100%;
-    margin-top: 115px;
     height: 350px;
+    margin-top: 114px;
 }
 
 #firstLeftContainer {
@@ -489,18 +444,17 @@ a {
 
 #firstLeftContainerText {
     width: 84%;
-    height: 310px;
-    margin-left: 8%;
-    margin-top: 19px;
+    height: 185px;
+    margin-left: 9%;
+    margin-top: 82px;
 }
 
 #firstLeftContainerTextFont {
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .firstLeftContainerTextFont {
-    font-size: 12px;
-    margin-top: -18px;
+    font-size: 17px;
 }
 
 #firstRightContainer {
@@ -630,23 +584,17 @@ a {
 }
 
 .h6, h6 {
-    font-size: 17px;
+    font-size: 16px;
 }
 
 .readMoreColor {
     color: #df5490;
-    font-size: 16px;
-}
-
-#footerWeOfferLeft {
-    width: 70%;
-    height: 335px;
-    float: left;
+    font-size: 14px;
 }
 
 .footerWeOfferText {
-	font-size: 18px; 
-	color: #cb4a78;
+    font-size: 18px; 
+    color: #cb4a78;
 }
 
 .impressumMail {
@@ -659,7 +607,7 @@ a {
     margin-top: 36px;
     height: 103px;
     width: 23%;
-    margin-top: 0px;
+    margin-top: -2px;
 }
 
 
@@ -672,12 +620,16 @@ a {
     font-size: 15px;
 }
 
-/*.navBarLogo {
-    display: none;
-}*/
+.navBarLogo {
+    width: 16%;
+    height: 121px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -38px;
+}
 
 .firstLeftContainerTextFont {
-	font-size: 15px;
+    font-size: 15px;
 }
 
 #firstContainer {
@@ -694,20 +646,18 @@ a {
 }
 
 #firstLeftContainerText {
-    width: 88%;
-    height: 257px;
-    margin-left: 6%;
-    margin-top: 0px;
+    width: 92%;
+    height: 171px;
+    margin-left: 4%;
+    margin-top: 74px;
 }
 
 #firstLeftContainerTextFont {
-    font-size: 13px;
-    margin-bottom: 36px;
+    font-size: 14px;
 }
 
 .firstLeftContainerTextFont {
-    font-size: 10px;
-    margin-top: 7px;
+    font-size: 12px;
 }
 
 #firstRightContainer {
@@ -848,13 +798,13 @@ a {
 }
 
 .footerWeOfferText {
-	font-size: 16px; 
-	color: #cb4a78;
+    font-size: 16px; 
+    color: #cb4a78;
 }
 
 .impressumMail {
-	color: #df5490; 
-	font-size: 16px;
+    color: #df5490; 
+    font-size: 16px;
 }
 
 #faceLogo {
@@ -934,22 +884,22 @@ p {
     width: 84%;
     height: 350px;
     margin-left: 9%;
-    margin-top: 19px;
+    margin-top: 60px;
 }
 
 #firstLeftContainerTextFont {
     font-size: 15px;
-    margin-bottom: 60px;
+    margin-bottom: 39px;
 }
 
 .firstLeftContainerTextFont {
-	font-size: 12px;
+    font-size: 12px;
     margin-bottom: 37px;
 }
 
 #firstLeftContainer {
     width: 100%;
-    height: 449px;
+    height: 330px;
     float: left;
     background-color: #df5490;
     position: relative;
@@ -1105,18 +1055,6 @@ h6, p {
     margin-top: -130px;
 }
 
-#firstLeftContainerText {
-    width: 84%;
-    height: 371px;
-    margin-left: 8%;
-    margin-top: 28px;
-}
-
-.firstLeftContainerTextFont {
-    font-size: 9px;
-    margin-bottom: 37px;
-}
-
 }
 
 @media only screen and (max-width: 320px) {
@@ -1134,22 +1072,11 @@ h6, p {
 }
 
 #firstLeftContainerText {
-    width: 92%;
-    height: 420px;
-    margin-left: 6%;
-    margin-top: 10px;
+    width: 84%;
+    height: 243px;
+    margin-left: 9%;
+    margin-top: 50px;
 }
-
-#firstLeftContainerTextFont {
-    font-size: 14px;
-    margin-bottom: 60px;
-}
-
-.firstLeftContainerTextFont {
-    font-size: 12px;
-    margin-bottom: 61px;
-}
-
 
 
 }

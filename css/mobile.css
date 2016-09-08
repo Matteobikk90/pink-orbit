@@ -1,0 +1,508 @@
+body {
+    font-family: 'Montserrat', sans-serif; 
+    color: #FAFAFA;
+    line-height: 26px;
+}
+
+#container {
+  height: 100%;
+    max-width: 2560px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.container {
+    margin-top: 61px;
+    width: 91%;
+}
+
+a:hover {
+    color: #df5490;
+}
+
+#navBarHome {
+    width: 100%;
+    height: 182px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 182px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 17px;
+}
+
+#navbarHome {
+    margin-top: -8px;
+    width: 33px;
+    height: 34px;
+}
+
+.navBarLogo {
+    width: 13%;
+    height: 180px;
+    position: absolute;
+    margin-left: 35%;
+    margin-top: -59px;
+}
+
+#homeLogo {
+    width: 13%;
+    height: 183px;
+    margin-left: 43%;
+}
+
+#firstBackground {
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/tribunen_HEADER.png);
+    margin-top: 180px;
+}
+
+#description {
+    width: 100%;
+    height: 400px;
+}
+
+#descriptionList {
+    width: 70%;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 15%;
+    color: #df5490;
+    font-size: 17px;
+}
+
+#secondBackground {
+    height: 350px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/tribunen_FOOTER.png);
+}
+
+#footerWeOffer {
+    height: 400px;
+    width: 100%;
+    
+}
+
+#footerWeOfferText {
+    height:335px;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 90px;
+    background-color: white;
+    color: #df5490;
+}
+
+.footerWeOfferText {
+    font-size: 22px; 
+    color: #cb4a78;
+}
+
+#faceLogo {
+    float: left;
+    height: 250px;
+}
+
+.impressumMail {
+    color: #df5490; 
+    font-size: 22px;
+}
+
+#footerWeOfferLeft {
+    width: 66%;
+    height: 335px;
+    float: left;
+}
+
+#ulStyle {
+    text-decoration: none;
+    list-style: none;
+}
+
+/*Media Queries*/
+
+@media only screen and (max-width: 2560px) and (min-width: 1441px) {
+
+body {
+    font-size: 18px;
+}
+
+.navBarLogo {
+    width: 13%;
+    height: 180px;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -59px;
+}
+
+.container {
+    width: 89%;
+}
+
+#firstBackground {
+    height: 900px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/tribunen_HEADER.png);
+    margin-top: 181px;
+}
+
+#descriptionList {
+    width: 70%;
+    height: 400px;
+    margin-top: 87px;
+    margin-left: 15%;
+    color: #df5490;
+    font-size: 17px;
+}
+
+#secondBackground {
+    height: 580px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/tribunen_FOOTER.png);
+}
+
+#ulStyle {
+    text-decoration: none;
+    list-style: none;
+}
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+.navBarLogo {
+    width: 16%;
+    height: 142px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -43px;
+}
+
+.navbar-brand {
+    display: none;
+}
+
+.aLogo {
+    width: 89%;
+    height: 126px;
+}
+
+#description {
+    width: 100%;
+    height: 414px;
+}
+
+#descriptionList {
+    margin-left: 15%;
+}
+
+#footerWeOfferLeft {
+    width: 74%;
+    height: 335px;
+    font-size: 18px;
+    float: left;
+}
+
+#faceLogo {
+    float: right;
+    width: 25%;
+    height: 97px;
+    /* position: absolute; */
+}
+
+#ulStyle {
+    text-decoration: none;
+    list-style: none;
+}
+
+}
+
+@media only screen and (max-width: 768px) {
+
+body {
+    font-size: 17px;
+}
+
+.navBarLogo {
+    width: 17%;
+    height: 116px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -36px;
+}
+
+.aLogo {
+    width: 89%;
+    height: 126px;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 114px;
+}
+
+.navbar-brand {
+    display: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 16px;
+}
+
+#firstBackground {
+    height: 318px;
+    margin-top: 111px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/tribunen_HEADER.png);
+}
+
+#secondBackground {
+    height: 210px;
+    margin-top: 111px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/tribunen_FOOTER.png);
+}
+
+h3 {
+    font-size: 20px;
+    margin-top: 13px;
+}
+
+#description {
+    width: 100%;
+    height: 300px;
+}
+
+#descriptionList {
+    margin-left: 15%;
+    font-size: 13px;
+}
+
+#footerWeOfferText {
+    height: 348px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 90px;
+    background-color: white;
+    color: #df5490;
+}
+
+.footerWeOfferText {
+    font-size: 16px;
+}
+
+.impressumMail {
+    font-size: 16px;
+}
+
+#ulStyle {
+    text-decoration: none;
+    list-style: none;
+}
+
+}
+
+@media only screen and (max-width: 425px) {
+
+.navBarLogo {
+    width: 27%;
+    height: 114px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -36px;
+}
+
+.aLogo {
+    width: 104%;
+    height: 126px;
+}
+
+.container {
+    margin-top: 14px;
+    width: 100%;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 14px;
+}
+
+.navbar-collapse, .navHeaderCollapse, .collapse in {
+    background-color: white;
+    margin-top: 64px;
+    margin-left: 68%;
+    width: 36%;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    margin-left: 75%;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 78px;
+}
+
+#firstBackground {
+    height: 253px;
+    margin-top: 78px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/tribunen_HEADER.png);
+}
+
+#description {
+    width: 100%;
+    height: 480px;
+}
+
+#descriptionList {
+    margin-left: 8%;
+    font-size: 11px;
+    width: 83%;
+    margin-top: 50px;
+}
+
+#secondBackground {
+    height: 114px;
+     margin-top: 0px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/tribunen_FOOTER.png);
+}
+
+#footerWeOffer {
+    height: 369px;
+    width: 100%;
+}
+
+#footerWeOfferText {
+    height: 348px;
+    width: 96%;
+    margin-left: 4%;
+    margin-top: 27px;
+    background-color: white;
+    color: #df5490;
+}
+
+.footerWeOfferText {
+    font-size: 14px;
+}
+
+#footerWeOfferLeft {
+    width: 100%;
+    height: 335px;
+    font-size: 14px;
+    /* float: left; */
+}
+
+#faceLogo {
+    /* float: left; */
+    margin-right: 8px;
+    width: 33%;
+    margin-top: -109px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.impressumMail {
+    font-size: 14px;
+}
+
+#ulStyle {
+    text-decoration: none;
+    list-style: none;
+}
+
+.linksInside {
+    font-size: 14px;
+}
+
+}
+
+@media only screen and (max-width: 375px) {
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    margin-left: 69%;
+    width: 43%;
+}
+
+#faceLogo {
+    margin-right: 10px;
+    /* float: left; */
+    width: 37%;
+    margin-top: -86px;
+}
+
+}
+
+@media only screen and (max-width: 320px) {
+
+.container {
+    margin-top: 14px;
+    width: 102
+}
+
+.linksInside {
+    font-size: 12px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    width: 48%;
+    margin-left: 65%;
+}
+
+faceLogo {
+    /* float: left; */
+    width: 42%;
+    margin-top: -87px;
+    margin-right: -4px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
