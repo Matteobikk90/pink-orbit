@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    margin-top: 61px;
+    margin-top: 45px;
     width: 91%;
 }
 
@@ -23,7 +23,7 @@ body {
 
 .navbar-default {
     background-color: white;
-    height: 182px;
+    height: 140px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -39,16 +39,16 @@ body {
 
 .navBarLogo {
     width: 13%;
-    height: 180px;
+    height: 153px;
     position: absolute;
-    margin-left: 35%;
-    margin-top: -59px;
+    margin-left: 38%;
+    margin-top: -64px;
 }
 
 #firstContainer {
     width: 100%;
     height: 500px;
-    margin-top: 181px;
+    margin-top: 140px;
 }
 
 #firstLeftContainer {
@@ -79,7 +79,7 @@ body {
     width: 33%;
     height: 500px;
     background-size: cover;
-    background-image: url("../img/gastro.png");
+    background-image: url("../img/01_Sziget.png");
     background-position: center;
 }
 
@@ -113,7 +113,7 @@ body {
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/stage_design.png");
+    background-image: url("../img/02_FRIDGE_FESTIVAL.png");
     background-position: center;
 }
 
@@ -122,7 +122,7 @@ body {
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/becher.png");
+    background-image: url("../img/03_WAMP.png");
     background-position: center;
 }
 
@@ -131,7 +131,7 @@ body {
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/promotion.png");
+    background-image: url("../img/04_charg-e.png");
     background-position: center;
 }
 
@@ -146,7 +146,7 @@ body {
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/festivals_equipment.png");
+    background-image: url("../img/05_OMV.png");
     background-position: center;
     border-bottom: 1px solid #df5490;
 }
@@ -156,7 +156,7 @@ body {
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/event_&festivalmanagment.png");
+    background-image: url("../img/06_DRINKMEISTER.png");
     background-position: center;
     border-bottom: 1px solid #df5490;
 }
@@ -166,10 +166,55 @@ body {
     width: 33%;
     height: 500px;
     background-size: cover;
-    background-image: url("../img/messe_auf-.png");
+    background-image: url("../img/07_OTTAKRING-STAND.png");
     background-position: center;
-    border-bottom: 1px solid #df5490;
+    border-bottom: 1px solid #df5490;   
+}
+
+#forthContainer {
+    width: 100%;
+    height: 500px;
+    position: relative;
     
+}
+
+#forthLeftContainer {
+    width: 33%;
+    height: 500px;
+    float: left;
+    background-size: cover;
+    background-image: url("../img/08_formula1.png");
+    background-position: center;
+    border-bottom: 3px solid #df5490;
+}
+
+#forthCenterContainer {
+    width: 34%;
+    height: 500px;
+    float: left;
+    background-size: cover;
+    background-image: url("../img/09_REWE.png");
+    background-position: center;
+    border-bottom: 3px solid #df5490;
+}
+
+#forthRightContainer {
+    float: left;
+    width: 33%;
+    height: 500px;
+    background-color: #df5490;
+}
+
+#forthRightContainerText {
+    height: 250px;
+    width: 56%;
+    margin-left: 24%;
+    margin-top: 130px;
+}
+
+.forthRightContainerText {
+    font-size: 17px;
+    color: white;
 }
 
 #footerWeOffer {
@@ -195,6 +240,11 @@ body {
 #faceLogo {
     float: left;
     height: 250px;
+}
+
+#faceIcon {
+    width: 38px;
+    height: 38px;
 }
 
 .impressumMail {

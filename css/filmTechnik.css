@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    margin-top: 61px;
+    margin-top: 45px;
     width: 91%;
 }
 
@@ -32,7 +32,7 @@ a:hover {
 
 .navbar-default {
     background-color: white;
-    height: 182px;
+    height: 140px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -48,10 +48,10 @@ a:hover {
 
 .navBarLogo {
     width: 13%;
-    height: 180px;
+    height: 153px;
     position: absolute;
-    margin-left: 35%;
-    margin-top: -59px;
+    margin-left: 38%;
+    margin-top: -64px;
 }
 
 #homeLogo {
@@ -66,7 +66,7 @@ a:hover {
     background-size: cover;
     background-position: center;
     background-image: url(../img/film&tek_HEADER.png);
-    margin-top: 180px;
+    margin-top: 140px;
 }
 
 #description {

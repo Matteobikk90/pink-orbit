@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    margin-top: 61px;
+    margin-top: 45px;
     width: 91%;
 }
 
@@ -38,7 +38,7 @@ a:hover {
 
 .navbar-default {
     background-color: white;
-    height: 182px;
+    height: 140px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -54,10 +54,10 @@ a:hover {
 
 .navBarLogo {
     width: 13%;
-    height: 180px;
+    height: 153px;
     position: absolute;
-    margin-left: 35%;
-    margin-top: -59px;
+    margin-left: 38%;
+    margin-top: -64px;
 }
 
 #homeLogo {
@@ -72,7 +72,7 @@ a:hover {
     background-size: cover;
     background-position: center;
     background-image: url(../img/headerHome.png);
-    margin-top: 180px;
+    margin-top: 140px;
 }
 
 #threeDivsMainContainer {
@@ -230,6 +230,14 @@ body {
     position: relative;
 }
 
+.linksInside {
+    color: #df5490;
+    font-size: 22px;
+    margin-top: 402px;
+    list-style: none;
+    height: 26px;
+}
+
 #threeDivsMainContainerInside {
     width: 64%;
     height: 342px;
@@ -239,7 +247,7 @@ body {
 
 #threeDivsMainContainerLeft {
     width: 28%;
-    height: 342px;
+    height: 480px;
     background-size: cover;
     float: left;
     margin-left: 4%;
@@ -248,7 +256,7 @@ body {
 
 #threeDivsMainContainerCenter {
     width: 28%;
-    height: 342px;
+    height: 480px;
     background-size: cover;
     float: left;
     margin-left: 4%;
@@ -257,7 +265,7 @@ body {
 
 #threeDivsMainContainerRight {
     width: 28%;
-    height: 342px;
+    height: 480px;
     background-size: cover;
     float: left;
     margin-left: 4%;
@@ -273,20 +281,39 @@ body {
 @media only screen and (max-width: 1024px) {
 
 .navBarLogo {
-    width: 16%;
-    height: 142px;
+    width: 14%;
+    height: 123px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -43px;
+    margin-top: -39px;
+}
+
+.container {
+    margin-top: 39px;
+    width: 91%;
 }
 
 .navbar-brand {
     display: none;
 }
 
+.navbar-default {
+    background-color: white;
+    height: 123px;
+}
+
 .aLogo {
     width: 89%;
     height: 126px;
+}
+
+#firstBackground {
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/headerHome.png);
+    margin-top: 123px;
 }
 
 #threeDivsMainContainer {
@@ -380,12 +407,12 @@ body {
 }
 
 .container {
-    margin-top: 30px;
+    margin-top: 19px;
 }
 
 .navbar-default {
     background-color: white;
-    height: 114px;
+    height: 90px;
 }
 
 .navbar-brand {
@@ -400,7 +427,7 @@ body {
 #firstBackground {
     height: 282px;
     width: 100%;
-    margin-top: 111px;
+    margin-top: 90px;
     background-size: cover;
     background-position: center;
     background-image: url(../img/headerHome.png);
@@ -479,21 +506,21 @@ body {
 @media only screen and (max-width: 425px) {
 
 .navBarLogo {
-    width: 27%;
-    height: 114px;
+    width: 18%;
+    height: 90px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -36px;
+    margin-top: -20px;
 }
 
 .aLogo {
-    width: 104%;
-    height: 126px;
+    width: 100%;
+    height: 100%;
 }
 
 .container {
     margin-top: 15px;
-    width: 100%;
+    width: 102%;
 }
 
 .navbar-default {
@@ -673,6 +700,14 @@ ul {
 .linksInside {
     font-size: 12px;
     margin-top: 82px;
+}
+
+.navBarLogo {
+    width: 22%;
+    height: 90px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -20px;
 }
 
 #threeDivsMainContainer {
