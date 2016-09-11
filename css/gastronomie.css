@@ -41,7 +41,6 @@ a:hover {
 }
 
 #navbarHome {
-    margin-top: -8px;
     width: 33px;
     height: 34px;
 }
@@ -158,7 +157,7 @@ body {
     background-size: cover;
     background-position: center;
     background-image: url(../img/gastro_HEADER.png);
-    margin-top: 181px;
+    margin-top: 140px;
 }
 
 #descriptionList {
@@ -331,21 +330,21 @@ h3 {
 @media only screen and (max-width: 425px) {
 
 .navBarLogo {
-    width: 27%;
-    height: 114px;
+    width: 18%;
+    height: 90px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -36px;
+    margin-top: -20px;
 }
 
 .aLogo {
-    width: 104%;
-    height: 126px;
+    width: 100%;
+    height: 100%;
 }
 
 .container {
-    margin-top: 14px;
-    width: 100%;
+    margin-top: 13px;
+    width: 103%;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -453,8 +452,8 @@ h3 {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #e7e7e7;
-    margin-left: 69%;
-    width: 43%;
+    margin-left: 64%;
+    width: 37%;
 }
 
 #faceLogo {

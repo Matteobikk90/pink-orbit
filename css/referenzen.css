@@ -79,7 +79,7 @@ body {
     width: 33%;
     height: 500px;
     background-size: cover;
-    background-image: url("../img/01_Sziget.png");
+    background-image: url("../img/01_motogp.png");
     background-position: center;
 }
 
@@ -131,7 +131,7 @@ body {
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/04_charg-e.png");
+    background-image: url("../img/04_Sziget.png");
     background-position: center;
 }
 
@@ -146,7 +146,7 @@ body {
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/05_OMV.png");
+    background-image: url("../img/05_formula1.png");
     background-position: center;
     border-bottom: 1px solid #df5490;
 }
@@ -156,7 +156,7 @@ body {
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/06_DRINKMEISTER.png");
+    background-image: url("../img/06_charg-e.png");
     background-position: center;
     border-bottom: 1px solid #df5490;
 }
@@ -183,7 +183,7 @@ body {
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/08_formula1.png");
+    background-image: url("../img/08_REWE.png");
     background-position: center;
     border-bottom: 3px solid #df5490;
 }
@@ -193,7 +193,7 @@ body {
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/09_REWE.png");
+    background-image: url("../img/09_OMV.png");
     background-position: center;
     border-bottom: 3px solid #df5490;
 }
@@ -301,10 +301,10 @@ h6 {
 }
 
 #firstLeftContainerText {
-    width: 40%;
+    width: 58%;
     height: 228px;
-    margin-left: 28%;
-    margin-top: 216px;
+    margin-left: 22%;
+    margin-top: 246px;
 }
 
 #firstRightContainer {
@@ -312,7 +312,7 @@ h6 {
     width: 33%;
     height: 650px;
     background-size: cover;
-    background-image: url("../img/gastro.png");
+    background-image: url("../img/01_motogp.png");
     background-position: center;
 }
 
@@ -326,7 +326,7 @@ h6 {
     height: 650px;
     float: left;
     background-size: cover;
-    background-image: url("../img/stage_design.png");
+    background-image: url("../img/02_FRIDGE_FESTIVAL.png");
     background-position: center;
 }
 
@@ -335,7 +335,7 @@ h6 {
     height: 650px;
     float: left;
     background-size: cover;
-    background-image: url("../img/becher.png");
+    background-image: url("../img/03_WAMP.png");
     background-position: center;
 }
 
@@ -344,7 +344,7 @@ h6 {
     height: 650px;
     float: left;
     background-size: cover;
-    background-image: url("../img/promotion.png");
+    background-image: url("../img/04_Sziget.png");
     background-position: center;
 }
 
@@ -358,7 +358,7 @@ h6 {
     height: 650px;
     float: left;
     background-size: cover;
-    background-image: url("../img/festivals_equipment.png");
+    background-image: url("../img/05_formula1.png");
     background-position: center;
 }
 
@@ -367,7 +367,7 @@ h6 {
     height: 650px;
     float: left;
     background-size: cover;
-    background-image: url("../img/event_&festivalmanagment.png");
+    background-image: url("../img/06_charg-e.png");
     background-position: center;
 }
 
@@ -376,7 +376,7 @@ h6 {
     width: 33%;
     height: 650px;
     background-size: cover;
-    background-image: url("../img/messe_auf-.png");
+    background-image: url("../img/07_OTTAKRING-STAND.png");
     background-position: center;  
 }
 
@@ -390,7 +390,7 @@ h6 {
     height: 650px;
     float: left;
     background-size: cover;
-    background-image: url("../img/tribuenen.png");
+    background-image: url("../img/08_REWE.png");
     background-position: center;
     border-bottom: 3px solid #df5490;
 }
@@ -400,7 +400,7 @@ h6 {
     height: 650px;
     float: left;
     background-size: cover;
-    background-image: url("../img/fil&teknik.png");
+    background-image: url("../img/09_OMV.png");
     background-position: center;
     border-bottom: 3px solid #df5490;
 }
@@ -416,7 +416,7 @@ h6 {
     height: 250px;
     width: 42%;
     margin-left: 31%;
-    margin-top: 199px;
+    margin-top: 176px;
 }
 
 .forthRightContainerText {
@@ -496,7 +496,7 @@ h6 {
     width: 84%;
     height: 185px;
     margin-left: 9%;
-    margin-top: 82px;
+    margin-top: 94px;
 }
 
 #firstLeftContainerTextFont {
@@ -512,7 +512,7 @@ h6 {
     width: 33%;
     height: 350px;
     background-size: cover;
-    background-image: url("../img/gastro.png");
+    background-image: url("../img/01_motogp.png");
     background-position: center;
 }
 
@@ -526,7 +526,7 @@ h6 {
     height: 350px;
     float: left;
     background-size: cover;
-    background-image: url("../img/stage_design.png");
+    background-image: url("../img/02_FRIDGE_FESTIVAL.png");
     background-position: center;
 }
 
@@ -535,7 +535,7 @@ h6 {
     height: 350px;
     float: left;
     background-size: cover;
-    background-image: url("../img/becher.png");
+    background-image: url("../img/03_WAMP.png");
     background-position: center;
 }
 
@@ -544,7 +544,7 @@ h6 {
     height: 350px;
     float: left;
     background-size: cover;
-    background-image: url("../img/promotion.png");
+    background-image: url("../img/04_Sziget.png");
     background-position: center;
 }
 
@@ -558,7 +558,7 @@ h6 {
     height: 350px;
     float: left;
     background-size: cover;
-    background-image: url("../img/festivals_equipment.png");
+    background-image: url("../img/05_formula1.png");
     background-position: center;
 }
 
@@ -567,7 +567,7 @@ h6 {
     height: 350px;
     float: left;
     background-size: cover;
-    background-image: url("../img/event_&festivalmanagment.png");
+    background-image: url("../img/06_charg-e.png");
     background-position: center;
 }
 
@@ -576,7 +576,7 @@ h6 {
     width: 33%;
     height: 350px;
     background-size: cover;
-    background-image: url("../img/messe_auf-.png");
+    background-image: url("../img/07_OTTAKRING-STAND.png");
     background-position: center;  
 }
 
@@ -590,7 +590,7 @@ h6 {
     height: 350px;
     float: left;
     background-size: cover;
-    background-image: url("../img/tribuenen.png");
+    background-image: url("../img/08_REWE.png");
     background-position: center;
     border-bottom: 3px solid #df5490;
 }
@@ -600,7 +600,7 @@ h6 {
     height: 350px;
     float: left;
     background-size: cover;
-    background-image: url("../img/fil&teknik.png");
+    background-image: url("../img/09_OMV.png");
     background-position: center;
     border-bottom: 3px solid #df5490;
 }
@@ -614,9 +614,10 @@ h6 {
 
 #forthRightContainerText {
     height: 350px;
-    width: 55%;
-    margin-left: 26%;
-    margin-top: 32px;
+    width: 63%;
+    margin-left: 19%;
+    margin-top: -22px;
+    text-align: center;
 }
 
 .forthRightContainerText {
@@ -629,17 +630,17 @@ h6 {
     height: 93px;
     margin-top: 253px;
     color: #df5490;
-    margin-left: 7%;
+    margin-left: 3%;
     font-size: 16px;
 }
 
 .h6, h6 {
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .readMoreColor {
     color: #df5490;
-    font-size: 14px;
+    font-size: 10px;
 }
 
 .footerWeOfferText {
@@ -684,21 +685,21 @@ h6 {
 
 #firstContainer {
     width: 100%;
-    height: 290px;
+    height: 303px;
 }
 
 #firstLeftContainer {
     width: 67%;
-    height: 290px;
+    height: 303px;
     position: absolute;
     float: left;
     background-color: #df5490;
 }
 
 #firstLeftContainerText {
-    width: 92%;
+    width: 79%;
     height: 171px;
-    margin-left: 4%;
+    margin-left: 13%;
     margin-top: 74px;
 }
 
@@ -713,97 +714,97 @@ h6 {
 #firstRightContainer {
     float: right;
     width: 33%;
-    height: 290px;
+    height: 303px;
     background-size: cover;
-    background-image: url("../img/gastro.png");
+    background-image: url("../img/01_motogp.png");
     background-position: center;
 }
 
 #secondContainer {
     width: 100%;
-    height: 290px;
+    height: 303px;
 }
 
 #secondLeftContainer {
     width: 33%;
-    height: 290px;
+    height: 303px;
     float: left;
     background-size: cover;
-    background-image: url("../img/stage_design.png");
+    background-image: url("../img/02_FRIDGE_FESTIVAL.png");
     background-position: center;
 }
 
 #secondCenterContainer {
     width: 34%;
-    height: 290px;
+    height: 303px;
     float: left;
     background-size: cover;
-    background-image: url("../img/becher.png");
+    background-image: url("../img/03_WAMP.png");
     background-position: center;
 }
 
 #secondRightContainer {
     width: 33%;
-    height: 290px;
+    height: 303px;
     float: left;
     background-size: cover;
-    background-image: url("../img/promotion.png");
+    background-image: url("../img/04_Sziget.png");
     background-position: center;
 }
 
 #thirdContainer {
     width: 100%;
-    height: 290px;
+    height: 303px;
 }
 
 #thirdLeftContainer {
     width: 33%;
-    height: 290px;
+    height: 303px;
     float: left;
     background-size: cover;
-    background-image: url("../img/festivals_equipment.png");
+    background-image: url("../img/05_formula1.png");
     background-position: center;
 }
 
 #thirdCenterContainer {
     width: 34%;
-    height: 290px;
+    height: 303px;
     float: left;
     background-size: cover;
-    background-image: url("../img/event_&festivalmanagment.png");
+    background-image: url("../img/06_charg-e.png");
     background-position: center;
 }
 
 #thirdRightContainer {
     float: left;
     width: 33%;
-    height: 290px;
+    height: 303px;
     background-size: cover;
-    background-image: url("../img/messe_auf-.png");
+    background-image: url("../img/07_OTTAKRING-STAND.png");
     background-position: center;  
 }
 
 #forthContainer {
     width: 100%;
-    height: 290px;
+    height: 303px;
 }
 
 #forthLeftContainer {
     width: 33%;
-    height: 290px;
+    height: 303px;
     float: left;
     background-size: cover;
-    background-image: url("../img/tribuenen.png");
+    background-image: url("../img/08_REWE.png");
     background-position: center;
     border-bottom: 3px solid #df5490;
 }
 
 #forthCenterContainer {
     width: 34%;
-    height: 290px;
+    height: 303px;
     float: left;
     background-size: cover;
-    background-image: url("../img/fil&teknik.png");
+    background-image: url("../img/09_OMV.png");
     background-position: center;
     border-bottom: 3px solid #df5490;
 }
@@ -811,15 +812,15 @@ h6 {
 #forthRightContainer {
     float: left;
     width: 33%;
-    height: 290px;
+    height: 303px;
     background-color: #df5490;
 }
 
 #forthRightContainerText {
     height: 290px;
-    width: 74%;
-    margin-left: 19%;
-    margin-top: 18px;
+    width: 85%;
+    margin-left: 8%;
+    margin-top: -14px;
 }
 
 .forthRightContainerText {
@@ -834,8 +835,8 @@ h6 {
 
 #footerWeOfferText {
     height: 244px;
-    width: 85%;
-    margin-left: 8%;
+    width: 80%;
+    margin-left: 12%;
     margin-top: 90px;
     background-color: white;
     color: #df5490;
@@ -874,16 +875,15 @@ p {
 
 .readMoreColor {
     color: #df5490;
-    font-size: 13px;
+    font-size: 11px;
 }
 
 .readMore {
-    width: 93%;
+    width: 98%;
     height: 64px;
     margin-top: 216px;
     color: #df5490;
-    margin-left: 4%;
-    font-size: 14px;
+    margin-left: 2%;
 }
 
 
@@ -892,16 +892,16 @@ p {
 @media only screen and (max-width: 425px) {
 
 .navBarLogo {
-    width: 27%;
-    height: 114px;
+    width: 18%;
+    height: 90px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -36px;
+    margin-top: -20px;
 }
 
 .aLogo {
-    width: 104%;
-    height: 126px;
+    width: 100%;
+    height: 100%;
 }
 
 .navbar-default {
@@ -910,7 +910,8 @@ p {
 }
 
 .container {
-    margin-top: 31px;
+    margin-top: 13px;
+    width: 103%;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -930,16 +931,22 @@ p {
     margin-left: 75%;
 }
 
+#firstContainer {
+    width: 100%;
+    height: 775px;
+    margin-top: 78px;
+}
+
 #firstLeftContainerText {
     width: 84%;
     height: 350px;
-    margin-left: 9%;
-    margin-top: 60px;
+    margin-left: 11%;
+    margin-top: 70px;
 }
 
 #firstLeftContainerTextFont {
     font-size: 15px;
-    margin-bottom: 39px;
+    margin-bottom: 60px;
 }
 
 .firstLeftContainerTextFont {
@@ -949,7 +956,7 @@ p {
 
 #firstLeftContainer {
     width: 100%;
-    height: 330px;
+    height: 325px;
     float: left;
     background-color: #df5490;
     position: relative;
@@ -958,75 +965,90 @@ p {
 #firstRightContainer {
     float: right;
     width: 100%;
-    height: 500px;
+    height: 450px;
+}
+
+#secondContainer {
+    width: 100%;
+    height: 1350px;
 }
 
 #secondLeftContainer {
     width: 100%;
-    height: 500px;
+    height: 450px;
     float: left;
 }
 
 #secondCenterContainer {
     width: 100%;
-    height: 500px;
+    height: 450px;
     float: left;
 }
 
 #secondRightContainer {
     width: 100%;
-    height: 500px;
+    height: 450px;
     float: left;
+}
+
+#thirdContainer {
+    width: 100%;
+    height: 1350px;
 }
 
 #thirdLeftContainer {
     width: 100%;
-    height: 500px;
+    height: 450px;
     float: left;
+    border-bottom: none;
 }
 
 #thirdCenterContainer {
     width: 100%;
-    height: 500px;
+    height: 450px;
     float: left;
+    border-bottom: none;
 }
 
 #thirdRightContainer {
     float: left;
     width: 100%;
-    height: 500px;
+    height: 450px;
+    border-bottom: none;
     
+}
+
+#forthContainer {
+    width: 100%;
+    height: 1210px;
 }
 
 #forthLeftContainer {
     width: 100%;
-    height: 500px;
+    height: 450px;
     float: left;
+    border-bottom: none;
 }
 
 #forthCenterContainer {
     width: 100%;
-    height: 500px;
+    height: 450px;
     float: left;
+    border-bottom: none;
 }
 
 #forthRightContainer {
     float: left;
     width: 100%;
-    height: 300px;
+    height: 310px;
     background-color: #df5490;
 }
 
 #forthRightContainerText {
     height: 250px;
     width: 71%;
-    margin-left: 19%;
-    margin-top: 41px;
-}
-
-.forthRightContainerText {
-    font-size: 15px;
-    color: white;
+    margin-left: 15%;
+    margin-top: 14px;
 }
 
 #zsigetBackground {
@@ -1035,13 +1057,13 @@ p {
 }
 
 #footerWeOffer {
-    height: 369px;
+    height: 340px;
     width: 100%;
 }
 
 #footerWeOfferText {
     height: 348px;
-    width: 96%;
+    width: 94%;
     margin-left: 4%;
     margin-top: 27px;
     background-color: white;
@@ -1061,7 +1083,7 @@ p {
 }
 
 #faceLogo {
-    margin-left: 63%;
+    margin-left: 65%;
     float: left;
     width: 33%;
     margin-top: -128px;
@@ -1078,10 +1100,14 @@ p {
 .readMore {
     width: 95%;
     height: 93px;
-    margin-top: 387px;
+    margin-top: 340px;
     color: #df5490;
     margin-left: 6%;
     font-size: 14px;
+}
+
+.readMoreColor {
+    font-size: 12px;
 }
 
 h6, p {
@@ -1094,15 +1120,22 @@ h6, p {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #e7e7e7;
-    margin-left: 69%;
-    width: 43%;
+    margin-left: 64%;
+    width: 37%;
 }
 
 #faceLogo {
-    margin-left: 57%;
+    margin-left: 60%;
     float: left;
     width: 37%;
     margin-top: -130px;
+}
+
+#forthRightContainerText {
+    height: 250px;
+    width: 71%;
+    margin-left: 15%;
+    margin-top: -8px;
 }
 
 }
@@ -1115,7 +1148,7 @@ h6, p {
 }
 
 #faceLogo {
-    margin-left: 55%;
+    margin-left: 58%;
     float: left;
     width: 42%;
     margin-top: -130px;
@@ -1124,10 +1157,20 @@ h6, p {
 #firstLeftContainerText {
     width: 84%;
     height: 243px;
-    margin-left: 9%;
-    margin-top: 50px;
+    margin-left: 12%;
+    margin-top: 74px;
 }
 
+#forthRightContainerText {
+    height: 250px;
+    width: 71%;
+    margin-left: 14%;
+    margin-top: -16px;
+}
+
+.readMoreColor {
+    font-size: 10px;
+}
 
 }
 
