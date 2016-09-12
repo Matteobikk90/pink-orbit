@@ -1,0 +1,755 @@
+#container {
+    width: 85%;
+    height: 910px;
+    margin-left: 8%;
+    margin-top: 9%;
+    letter-spacing: 1px;
+    margin-top: 142px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif; 
+    color: #FAFAFA;
+    line-height: 26px;
+}
+
+#container {
+    height: 100%;
+    max-width: 2560px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.container {
+    margin-top: 45px;
+    width: 91%;
+}
+
+a:hover {
+    color: #df5490;
+}
+
+#navBarHome {
+    width: 100%;
+    height: 182px;
+}
+
+#navbarHome {
+    width: 33px;
+    height: 34px;
+    margin-top: -8px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 140px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 17px;
+}
+
+.faceLogo {
+    margin-top: 4px;
+    width: 33px;
+    height: 34px;
+}
+
+.navBarLogo {
+    width: 13%;
+    height: 153px;
+    position: absolute;
+    margin-left: 38%;
+    margin-top: -64px;
+}
+
+#homeLogo {
+    width: 13%;
+    height: 183px;
+    margin-left: 43%;
+}
+
+#firstBackground {
+    height: 455px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: #df5490;
+    margin-top: 140px;
+    position: relative;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+}
+
+a {
+    color: #df5490
+}
+
+#topOne {
+    width: 30%;
+    height: 62px;
+    margin-left: 35%;
+    margin-top: 77px;
+    position: absolute;
+    text-align: center;
+}
+
+.italicSize {
+    font-size: 18px;
+}
+
+#leftOne {
+    width: 22%;
+    height: 135px;
+    /* text-align: center; */
+    float: left;
+    /* position: absolute; */
+    margin-top: 230px;
+    margin-left: 31%;
+    font-size: 18px;
+}
+
+#rightOne {
+    width: 26%;
+    height: 135px;
+    /* text-align: center; */
+    float: left;
+    /* position: absolute; */
+    margin-top: 230px;
+    font-size: 18px;
+}
+
+#footerWeOffer {
+    height: 350px;
+    width: 100%;
+    
+}
+
+#footerWeOfferText {
+    height:335px;
+    width: 70%;
+    margin-left: 31%;
+    margin-top: 90px;
+    background-color: white;
+    color: #df5490;
+}
+
+.footerWeOfferText {
+    font-size: 22px; 
+    color: #cb4a78;
+}
+
+#faceLogo {
+    float: left;
+    height: 250px;
+}
+
+.impressumMail {
+    color: #df5490; 
+    font-size: 22px;
+}
+
+#footerWeOfferLeft {
+    width: 40%;
+    height: 335px;
+    float: left;
+}
+
+p, h4, h2 {
+	color: black;
+}
+
+/*Media Queries*/
+
+@media only screen and (max-width: 2560px) and (min-width: 1441px) {
+
+body {
+    font-size: 18px;
+}
+
+.navBarLogo {
+    width: 13%;
+    height: 180px;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -59px;
+}
+
+.container {
+    width: 89%;
+}
+
+#firstBackground {
+    height: 470px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: #df5490;
+}
+
+#footerWeOfferText {
+    height: 335px;
+    width: 69%;
+    margin-left: 31%;
+    margin-top: 90px;
+    background-color: white;
+    color: #df5490;
+}
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+.navBarLogo {
+    width: 14%;
+    height: 123px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -39px;
+}
+
+.container {
+    margin-top: 39px;
+    width: 91%;
+}
+
+.navbar-brand {
+    display: none;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 123px;
+}
+
+.aLogo {
+    width: 89%;
+    height: 126px;
+}
+
+#firstBackground {
+    height: 450px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    margin-top: 123px;
+    background-color: #df5490;
+}
+
+#topOne {
+    width: 42%;
+    height: 62px;
+    margin-left: 29%;
+    margin-top: 77px;
+    position: absolute;
+    text-align: center;
+}
+
+#leftOne {
+    width: 30%;
+    height: 135px;
+    /* text-align: center; */
+    float: left;
+    /* position: absolute; */
+    margin-top: 230px;
+    margin-left: 21%;
+    font-size: 18px;
+}
+
+#rightOne {
+    width: 37%;
+    height: 135px;
+    /* text-align: center; */
+    float: left;
+    /* position: absolute; */
+    margin-top: 230px;
+    font-size: 18px;
+}
+
+#footerWeOfferLeft {
+    width: 74%;
+    height: 335px;
+    font-size: 18px;
+    float: left;
+}
+
+#footerWeOfferText {
+    height: 335px;
+    width: 70%;
+    margin-left: 17%;
+    margin-top: 90px;
+    background-color: white;
+    color: #df5490;
+}
+
+#faceLogo {
+    float: right;
+    width: 25%;
+    height: 97px;
+    /* position: absolute; */
+}
+
+}
+
+@media only screen and (max-width: 768px) {
+
+body {
+    font-size: 17px;
+}
+
+.navBarLogo {
+    width: 17%;
+    height: 116px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -36px;
+}
+
+.aLogo {
+    width: 89%;
+    height: 126px;
+}
+
+.container {
+    margin-top: 19px;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 90px;
+}
+
+.navbar-brand {
+    display: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 16px;
+}
+
+#firstBackground {
+    height: 282px;
+    width: 100%;
+    margin-top: 90px;
+    background-size: cover;
+    background-position: center;
+    background-color: #df5490;
+}
+
+#topOne {
+    width: 42%;
+    height: 62px;
+    margin-left: 29%;
+    margin-top: 14px;
+    position: absolute;
+    text-align: center;
+}
+
+#leftOne {
+    width: 36%;
+    height: 135px;
+    /* text-align: center; */
+    float: left;
+    /* position: absolute; */
+    margin-top: 112px;
+    margin-left: 16%;
+    font-size: 15px;
+}
+
+#rightOne {
+    width: 41%;
+    height: 135px;
+    /* text-align: center; */
+    float: left;
+    /* position: absolute; */
+    margin-top: 112px;
+    font-size: 15px;
+}
+
+#footerWeOfferText {
+    height: 348px;
+    width: 90%;
+    margin-left: 9%;
+    margin-top: 90px;
+    background-color: white;
+    color: #df5490;
+}
+
+#footerWeOffer {
+    height: 348px;
+    width: 100%;
+}
+
+.footerWeOfferText {
+    font-size: 16px;
+}
+
+.impressumMail {
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 17px;
+}
+
+}
+
+@media only screen and (max-width: 698px) {
+
+#leftOne {
+
+}
+
+#rightOne {
+    width: 41%;
+    height: 135px;
+    /* text-align: center; */
+    float: left;
+    /* position: absolute; */
+    margin-top: 112px;
+    font-size: 13px;
+}
+
+#leftOne {
+    width: 36%;
+    height: 135px;
+    /* text-align: center; */
+    float: left;
+    /* position: absolute; */
+    margin-top: 112px;
+    margin-left: 16%;
+    font-size: 13px;
+}
+
+}
+
+@media only screen and (max-width: 600px) {
+
+#firstBackground {
+    height: 316px;
+    width: 100%;
+    margin-top: 90px;
+    background-size: cover;
+    background-position: center;
+    background-color: #df5490;
+}
+
+}
+
+@media only screen and (max-width: 425px) {
+
+.navBarLogo {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -20px;
+}
+
+.aLogo {
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    margin-top: 13px;
+    width: 103%;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 78px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 14px;
+}
+
+.navbar-collapse, .navHeaderCollapse, .collapse in{
+    background-color: white;
+    margin-top: 62px;
+    margin-left: 68%;
+    width: 36%;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    margin-left: 71%;
+    width: 33%;
+}
+
+#firstBackground {
+    height: 420px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: #df5490;
+    margin-top: 77px;
+}
+
+#topOne {
+    width: 65%;
+    height: 62px;
+    margin-left: 18%;
+    margin-top: 2px;
+    position: absolute;
+    text-align: center;
+}
+
+#leftOne {
+    width: 48%;
+    height: 135px;
+    /* text-align: center; */
+    text-align: center;
+    float: left;
+    /* position: absolute; */
+    margin-top: 112px;
+    margin-left: 26%;
+    font-size: 13px;
+}
+
+#rightOne {
+    width: 64%;
+    height: 135px;
+    /* text-align: center; */
+    float: left;
+    /* position: absolute; */
+    margin-top: 16px;
+    font-size: 13px;
+    margin-left: 18%;
+    text-align: center;
+}
+
+#footerWeOffer {
+    height: 369px;
+    width: 100%;
+}
+
+#footerWeOfferText {
+    height: 348px;
+    width: 96%;
+    margin-left: 4%;
+    margin-top: 27px;
+    background-color: white;
+    color: #df5490;
+}
+
+.footerWeOfferText {
+    font-size: 14px;
+}
+
+#footerWeOfferLeft {
+    width: 100%;
+    height: 335px;
+    font-size: 14px;
+    margin-top: 43px;
+    /* float: left; */
+}
+
+#faceLogo {
+    width: 33%;
+    margin-top: -175px;
+    margin-right: 0px;
+}
+
+.impressumMail {
+    font-size: 14px;
+}
+
+ul {
+    margin-left: -13%;
+}
+
+h3 {
+    font-size: 16px
+}
+
+.italicSize {
+    font-size: 14px;
+}
+
+}
+
+@media only screen and (max-width: 375px) {
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    margin-left: 68%;
+    width: 37%;
+}
+
+.navbar-nav {
+    margin: 7.5px -15px;
+    width: 124%;
+}
+
+.navBarLogo {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -20px;
+}
+
+#topOne {
+    width: 74%;
+    height: 62px;
+    margin-left: 13%;
+    margin-top: 2px;
+    position: absolute;
+    text-align: center;
+}
+
+#leftOne {
+    width: 53%;
+    height: 135px;
+    /* text-align: center; */
+    text-align: center;
+    float: left;
+    /* position: absolute; */
+    margin-top: 112px;
+    margin-left: 23%;
+    font-size: 13px;
+}
+
+#rightOne {
+    width: 72%;
+    height: 135px;
+    /* text-align: center; */
+    float: left;
+    /* position: absolute; */
+    margin-top: 16px;
+    font-size: 13px;
+    margin-left: 14%;
+    text-align: center;
+}
+
+#faceLogo {
+    /* margin-left: auto; */
+    /* float: left; */
+    width: 37%;
+    margin-top: -122px;
+}
+
+#footerWeOffer {
+    height: 334px;
+    width: 100%;
+}
+
+#footerWeOfferText {
+    height: 336px;
+    width: 96%;
+    margin-left: 4%;
+    margin-top: 27px;
+    background-color: white;
+    color: #df5490;
+}
+
+#footerWeOfferLeft {
+    width: 100%;
+    height: 282px;
+    font-size: 14px;
+    margin-top: 29px;
+    /* float: left; */
+}
+
+h3 {
+    font-size: 15px;
+}
+
+.italicSize {
+    font-size: 13px;
+}
+
+}
+
+@media only screen and (max-width: 320px) {
+
+.linksInside {
+    font-size: 12px;
+    margin-top: 82px;
+}
+
+.navBarLogo {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -10px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    width: 43%;
+    margin-left: 60%;
+}
+
+#topOne {
+    width: 81%;
+    height: 62px;
+    margin-left: 9%;
+    margin-top: 2px;
+    position: absolute;
+    text-align: center;
+}
+
+#leftOne {
+    width: 62%;
+    height: 135px;
+    /* text-align: center; */
+    text-align: center;
+    float: left;
+    /* position: absolute; */
+    margin-top: 112px;
+    margin-left: 19%;
+    font-size: 13px;
+}
+
+#rightOne {
+    width: 85%;
+    height: 135px;
+    /* text-align: center; */
+    float: left;
+    /* position: absolute; */
+    margin-top: 16px;
+    font-size: 13px;
+    margin-left: 7%;
+    text-align: center;
+}
+
+#faceLogo {
+    /* margin-left: -10%; */
+    /* float: left; */-
+    width: 35%;
+    margin-top: -124px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
