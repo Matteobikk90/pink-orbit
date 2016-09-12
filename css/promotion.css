@@ -337,11 +337,11 @@ h3 {
 @media only screen and (max-width: 425px) {
 
 .navBarLogo {
-    width: 18%;
+    width: 90px;
     height: 90px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -20px;
+    margin-top: -36px;
 }
 
 .aLogo {
@@ -463,6 +463,14 @@ h3 {
     width: 37%;
 }
 
+.navBarLogo {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -36px;
+}
+
 #faceLogo {
     margin-right: 10px;
     /* float: left; */
@@ -477,6 +485,14 @@ h3 {
 .container {
     margin-top: 14px;
     width: 102
+}
+
+.navBarLogo {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -28px;
 }
 
 .linksInside {

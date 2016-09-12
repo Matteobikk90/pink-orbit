@@ -436,11 +436,11 @@ h3 {
 @media only screen and (max-width: 425px) {
 
 .navBarLogo {
-    width: 18%;
+    width: 90px;
     height: 90px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -20px;
+    margin-top: -36px;
 }
 
 .aLogo {
@@ -581,6 +581,14 @@ h3 {
     width: 124%;
 }
 
+.navBarLogo {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -36px;
+}
+
 #topOne {
     width: 74%;
     height: 62px;
@@ -661,11 +669,11 @@ h3 {
 }
 
 .navBarLogo {
-    width: 22%;
-    height: 90px;
+    width: 70px;
+    height: 70px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -20px;
+    margin-top: -28px;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {

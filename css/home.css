@@ -511,11 +511,11 @@ body {
 @media only screen and (max-width: 425px) {
 
 .navBarLogo {
-    width: 18%;
+    width: 90px;
     height: 90px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -20px;
+    margin-top: -36px;
 }
 
 .aLogo {
@@ -661,6 +661,14 @@ ul {
     width: 37%;
 }
 
+.navBarLogo {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -36px;
+}
+
 .navbar-nav {
     margin: 7.5px -15px;
     width: 124%;
@@ -723,11 +731,11 @@ ul {
 }
 
 .navBarLogo {
-    width: 22%;
-    height: 95px;
+    width: 70px;
+    height: 70px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -22px;
+    margin-top: -28px;
 }
 
 #threeDivsMainContainer {
