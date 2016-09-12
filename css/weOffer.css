@@ -250,6 +250,12 @@ a:hover {
     height: 250px;
 }
 
+.faceIcon {
+    width: 34px;
+    height: 34px;
+    margin-top: 4px;
+}
+
 .impressumMail {
     color: #df5490; 
     font-size: 22px;
@@ -1196,6 +1202,12 @@ h6, p {
     float: left;
     width: 42%;
     margin-top: -130px;
+}
+
+.faceIcon {
+    width: 34px;
+    height: 34px;
+    margin-top: 4px;
 }
 
 #firstLeftContainerText {
