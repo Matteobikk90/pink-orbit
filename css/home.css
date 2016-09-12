@@ -209,7 +209,7 @@ body {
     height: 180px;
     position: absolute;
     margin-left: 40%;
-    margin-top: -59px;
+    margin-top: -64px;
 }
 
 .container {
@@ -547,7 +547,7 @@ body {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #e7e7e7;
-    margin-left: 67%;
+    margin-left: 69%;
     width: 33%;
 }
 

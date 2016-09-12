@@ -245,6 +245,7 @@ body {
 #faceIcon {
     width: 38px;
     height: 38px;
+    margin-top: 4px;
 }
 
 .impressumMail {
@@ -314,6 +315,10 @@ h6 {
     background-size: cover;
     background-image: url("../img/01_motogp.png");
     background-position: center;
+}
+
+.firstLeftContainerTextFont {
+    font-size: 25px;
 }
 
 #secondContainer {
@@ -414,13 +419,13 @@ h6 {
 
 #forthRightContainerText {
     height: 250px;
-    width: 42%;
-    margin-left: 31%;
-    margin-top: 176px;
+    width: 47%;
+    margin-left: 29%;
+    margin-top: 175px;
 }
 
 .forthRightContainerText {
-    font-size: 22px;
+    font-size: 25px;
     color: white;
 }
 
@@ -431,6 +436,15 @@ h6 {
     color: #df5490;
     margin-left: 7%;
     font-size: 23px;
+}
+
+#footerWeOfferText {
+    height: 335px;
+    width: 64%;
+    margin-left: 24%;
+    margin-top: 134px;
+    background-color: white;
+    color: #df5490;
 }
 
 .h6, h6 {

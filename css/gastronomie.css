@@ -115,6 +115,12 @@ a:hover {
     height: 250px;
 }
 
+.faceIcon {
+    margin-top: 4px;
+    width: 33px;
+    height: 34px;
+}
+
 .impressumMail {
     color: #df5490; 
     font-size: 22px;
