@@ -317,8 +317,12 @@ h6 {
     background-position: center;
 }
 
+#firstLeftContainerTextFont {
+    font-size: 22px;
+}
+
 .firstLeftContainerTextFont {
-    font-size: 25px;
+    font-size: 17px;
 }
 
 #secondContainer {
@@ -425,7 +429,7 @@ h6 {
 }
 
 .forthRightContainerText {
-    font-size: 25px;
+    font-size: 22px;
     color: white;
 }
 
@@ -642,7 +646,7 @@ h6 {
 .readMore {
     width: 93%;
     height: 93px;
-    margin-top: 253px;
+    margin-top: 258px;
     color: #df5490;
     margin-left: 3%;
     font-size: 16px;
