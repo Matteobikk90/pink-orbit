@@ -164,7 +164,7 @@ body {
     background-size: cover;
     background-position: center;
     background-image: url(../img/becher_HEADER.png);
-    margin-top: 181px;
+    margin-top: 140px;
 }
 
 #descriptionList {
@@ -341,7 +341,7 @@ h3 {
     height: 90px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -36px;
+    margin-top: -20px;
 }
 
 .aLogo {
@@ -468,7 +468,7 @@ h3 {
     height: 90px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -36px;
+    margin-top: -20px;
 }
 
 #faceLogo {
