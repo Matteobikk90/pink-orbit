@@ -276,6 +276,11 @@ a {
     color: #df5490
 }
 
+#copyright {
+    color: #df5490;
+    font-size: 12px;
+}
+
 /*MEDIA QUERIES*/
 
 @media only screen and (min-width: 1441px) {
@@ -1201,6 +1206,11 @@ h6, p {
     margin-bottom: 37px;
 }
 
+#copyright {
+    color: #df5490;
+    font-size: 11px;
+}
+
 }
 
 @media only screen and (max-width: 320px) {
@@ -1252,6 +1262,10 @@ h6, p {
     margin-bottom: 61px;
 }
 
+#copyright {
+    color: #df5490;
+    font-size: 10px;
+}
 
 
 }
