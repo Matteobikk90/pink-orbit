@@ -108,7 +108,7 @@ a:hover {
 
 .footerWeOfferText {
     font-size: 22px; 
-    color: #cb4a78;
+    color: #df5490;
 }
 
 #faceLogo {
@@ -392,7 +392,7 @@ h3 {
 
 #description {
     width: 100%;
-    height: 480px;
+    height: 300px;
 }
 
 #descriptionList {
@@ -481,6 +481,11 @@ h3 {
     /* float: left; */
     width: 37%;
     margin-top: -86px;
+}
+
+#description {
+    width: 100%;
+    height: 330px;
 }
 
 }

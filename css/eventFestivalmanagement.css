@@ -51,7 +51,7 @@ a:hover {
     width: 13%;
     height: 153px;
     position: absolute;
-    margin-left: 38%;
+    margin-left: 37%;
     margin-top: -64px;
 }
 
@@ -93,9 +93,8 @@ a:hover {
 }
 
 #footerWeOffer {
-    height: 400px;
+    height: 324px;
     width: 100%;
-    
 }
 
 #footerWeOfferText {
@@ -109,7 +108,7 @@ a:hover {
 
 .footerWeOfferText {
     font-size: 22px; 
-    color: #cb4a78;
+    color: #df5490;
 }
 
 #faceLogo {
@@ -193,6 +192,11 @@ body {
 #ulStyle {
     text-decoration: none;
     list-style: none;
+}
+
+#footerWeOffer {
+    height: 324px;
+    width: 100%;
 }
 
 }
@@ -442,7 +446,7 @@ h3 {
     /* float: left; */
     margin-right: 8px;
     width: 33%;
-    margin-top: -109px;
+    margin-top: -210px;
     text-decoration: none;
     list-style: none;
 }
@@ -487,7 +491,7 @@ h3 {
     margin-right: 10px;
     /* float: left; */
     width: 37%;
-    margin-top: -86px;
+    margin-top: -210px;
 }
 
 }

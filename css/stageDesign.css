@@ -32,7 +32,7 @@ a:hover {
 
 .navbar-default {
     background-color: white;
-    height: 182px;
+    height: 140px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -71,7 +71,7 @@ a:hover {
 
 #description {
     width: 100%;
-    height: 400px;
+    height: 270px;
 }
 
 #descriptionList {
@@ -108,7 +108,7 @@ a:hover {
 
 .footerWeOfferText {
     font-size: 22px; 
-    color: #cb4a78;
+    color: #df5490;
 }
 
 #faceLogo {
@@ -167,6 +167,11 @@ body {
     margin-top: 181px;
 }
 
+#description {
+    width: 100%;
+    height: 320px;
+}
+
 #descriptionList {
     width: 70%;
     height: 400px;
@@ -212,7 +217,7 @@ body {
 
 #description {
     width: 100%;
-    height: 414px;
+    height: 270px;
 }
 
 #descriptionList {
@@ -302,7 +307,7 @@ h3 {
 
 #description {
     width: 100%;
-    height: 300px;
+    height: 150px;
 }
 
 #descriptionList {
@@ -387,7 +392,7 @@ h3 {
 
 #description {
     width: 100%;
-    height: 480px;
+    height: 260px;
 }
 
 #descriptionList {
@@ -471,6 +476,11 @@ h3 {
     margin-top: -20px;
 }
 
+#description {
+    width: 100%;
+    height: 282px;
+}
+
 #faceLogo {
     margin-right: 10px;
     /* float: left; */
@@ -502,6 +512,11 @@ h3 {
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     width: 48%;
     margin-left: 65%;
+}
+
+#description {
+    width: 100%;
+    height: 310px;
 }
 
 faceLogo {

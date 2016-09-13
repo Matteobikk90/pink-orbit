@@ -13,6 +13,11 @@ body {
     line-height: 26px;
 }
 
+h2 b {
+	color: #df5490;
+	font-size: 19px;
+}
+
 .container {
     margin-top: 45px;
     width: 91%;
