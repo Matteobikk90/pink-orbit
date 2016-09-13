@@ -61,35 +61,43 @@ a:hover {
 }
 
 #firstLeftContainer {
-    width: 67%;
+    width: 33.3333%;
     height: 500px;
-    position: absolute;
     float: left;
     background-color: #df5490;
+}
+
+#firstCenterContainer {
+    width: 33.3333%;
+    height: 500px;
+    float: left;
+    background-size: cover;
+    background-image: url("../img/event_&festivalmanagment.png");
+    background-position: center;
 }
 
 #firstLeftContainerText {
     width: 84%;
     height: 350px;
     margin-left: 8%;
-    margin-top: 96px;
+    margin-top: 110px;
     letter-spacing: 1px;
 }
 
 #firstLeftContainerTextFont {
-	font-size: 22px;
+	font-size: 19px;
 }
 
 .firstLeftContainerTextFont {
-	font-size: 17px;
+	font-size: 16px;
 }
 
 #firstRightContainer {
     float: right;
-    width: 33%;
+    width: 33.3333%;
     height: 500px;
     background-size: cover;
-    background-image: url("../img/event_&festivalmanagment.png");
+    background-image: url("../img/gastro.png");
     background-position: center;
 }
 
@@ -119,16 +127,7 @@ a:hover {
 }
 
 #secondLeftContainer {
-    width: 33%;
-    height: 500px;
-    float: left;
-    background-size: cover;
-    background-image: url("../img/gastro.png");
-    background-position: center;
-}
-
-#secondCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
@@ -136,12 +135,21 @@ a:hover {
     background-position: center;
 }
 
-#secondRightContainer {
-    width: 33%;
+#secondCenterContainer {
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
     background-image: url("../img/promotion.png");
+    background-position: center;
+}
+
+#secondRightContainer {
+    width: 33.3333%;
+    height: 500px;
+    float: left;
+    background-size: cover;
+    background-image: url("../img/festivals_equipment.png");
     background-position: center;
 }
 
@@ -152,16 +160,7 @@ a:hover {
 }
 
 #thirdLeftContainer {
-    width: 33%;
-    height: 500px;
-    float: left;
-    background-size: cover;
-    background-image: url("../img/festivals_equipment.png");
-    background-position: center;
-}
-
-#thirdCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
@@ -169,14 +168,22 @@ a:hover {
     background-position: center;
 }
 
-#thirdRightContainer {
-    float: left;
-    width: 33%;
+#thirdCenterContainer {
+    width: 33.3333%;
     height: 500px;
+    float: left;
     background-size: cover;
     background-image: url("../img/messe_auf-.png");
     background-position: center;
-    
+}
+
+#thirdRightContainer {
+    float: left;
+    width: 33.3333%;
+    height: 500px;
+    background-size: cover;
+    background-image: url("../img/tribuenen.png");
+    background-position: center;   
 }
 
 #forthContainer {
@@ -187,17 +194,17 @@ a:hover {
 }
 
 #forthLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/tribuenen.png");
+    background-image: url("../img/fil&teknik.png");
     background-position: center;
     border-bottom: 3px solid #df5490;
 }
 
 #forthCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
@@ -208,7 +215,7 @@ a:hover {
 
 #forthRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 500px;
     background-color: #df5490;
 }
@@ -303,23 +310,31 @@ a {
 }
 
 #firstLeftContainer {
-    width: 67%;
+    width: 33.3333%;
     height: 650px;
-    position: absolute;
     float: left;
     background-color: #df5490;
+}
+
+#firstCenterContainer {
+    width: 33.3333%;
+    height: 650px;
+    float: left;
+    background-size: cover;
+    background-image: url("../img/event_&festivalmanagment.png");
+    background-position: center;
 }
 
 #firstLeftContainerText {
     width: 84%;
     height: 228px;
-    margin-left: 11%;
+    margin-left: 10%;
     margin-top: 216px;
 }
 
 #firstRightContainer {
-    float: right;
-    width: 33%;
+    float: left;
+    width: 33.3333%;
     height: 650px;
     background-size: cover;
     background-image: url("../img/event_&festivalmanagment.png");
@@ -332,7 +347,7 @@ a {
 }
 
 #secondLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -341,7 +356,7 @@ a {
 }
 
 #secondCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -350,7 +365,7 @@ a {
 }
 
 #secondRightContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -364,7 +379,7 @@ a {
 }
 
 #thirdLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -373,7 +388,7 @@ a {
 }
 
 #thirdCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -383,7 +398,7 @@ a {
 
 #thirdRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     background-size: cover;
     background-image: url("../img/messe_auf-.png");
@@ -396,7 +411,7 @@ a {
 }
 
 #forthLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -406,7 +421,7 @@ a {
 }
 
 #forthCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -417,7 +432,7 @@ a {
 
 #forthRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     background-color: #df5490;
 }
@@ -500,9 +515,8 @@ a {
 }
 
 #firstLeftContainer {
-    width: 67%;
+    width: 33.3333%;
     height: 350px;
-    position: absolute;
     float: left;
     background-color: #df5490;
 }
@@ -510,8 +524,8 @@ a {
 #firstLeftContainerText {
     width: 84%;
     height: 310px;
-    margin-left: 8%;
-    margin-top: 32px;
+    margin-left: 9%;
+    margin-top: 10px;
 }
 
 #firstLeftContainerTextFont {
@@ -523,12 +537,21 @@ a {
     margin-top: -18px;
 }
 
-#firstRightContainer {
-    float: right;
-    width: 33%;
+#firstCenterContainer {
+    float: left;
+    width: 33.3333%;
     height: 350px;
     background-size: cover;
     background-image: url("../img/event_&festivalmanagment.png");
+    background-position: center;
+}
+
+#firstRightContainer {
+    float: left;
+    width: 33.3333%;
+    height: 350px;
+    background-size: cover;
+    background-image: url("../img/gastro.png");
     background-position: center;
 }
 
@@ -538,16 +561,7 @@ a {
 }
 
 #secondLeftContainer {
-    width: 33%;
-    height: 350px;
-    float: left;
-    background-size: cover;
-    background-image: url("../img/gastro.png");
-    background-position: center;
-}
-
-#secondCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
@@ -555,12 +569,21 @@ a {
     background-position: center;
 }
 
-#secondRightContainer {
-    width: 33%;
+#secondCenterContainer {
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
     background-image: url("../img/promotion.png");
+    background-position: center;
+}
+
+#secondRightContainer {
+    width: 33.3333%;
+    height: 350px;
+    float: left;
+    background-size: cover;
+    background-image: url("../img/festivals_equipment.png");
     background-position: center;
 }
 
@@ -570,16 +593,7 @@ a {
 }
 
 #thirdLeftContainer {
-    width: 33%;
-    height: 350px;
-    float: left;
-    background-size: cover;
-    background-image: url("../img/festivals_equipment.png");
-    background-position: center;
-}
-
-#thirdCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
@@ -587,12 +601,21 @@ a {
     background-position: center;
 }
 
-#thirdRightContainer {
-    float: left;
-    width: 33%;
+#thirdCenterContainer {
+    width: 33.3333%;
     height: 350px;
+    float: left;
     background-size: cover;
     background-image: url("../img/messe_auf-.png");
+    background-position: center;
+}
+
+#thirdRightContainer {
+    float: left;
+    width: 33.3333%;
+    height: 350px;
+    background-size: cover;
+    background-image: url("../img/tribuenen.png");
     background-position: center;  
 }
 
@@ -602,17 +625,17 @@ a {
 }
 
 #forthLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
-    background-image: url("../img/tribuenen.png");
+    background-image: url("../img/fil&teknik.png");
     background-position: center;
     border-bottom: 3px solid #df5490;
 }
 
 #forthCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
@@ -623,7 +646,7 @@ a {
 
 #forthRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 350px;
     background-color: #df5490;
 }
@@ -737,18 +760,17 @@ a {
 }
 
 #firstLeftContainer {
-    width: 67%;
+    width: 33.3333%;
     height: 290px;
-    position: absolute;
     float: left;
     background-color: #df5490;
 }
 
 #firstLeftContainerText {
-    width: 88%;
+    width: 93%;
     height: 257px;
-    margin-left: 6%;
-    margin-top: 14px;
+    margin-left: 4%;
+    margin-top: 0px;
 }
 
 #firstLeftContainerTextFont {
@@ -758,15 +780,24 @@ a {
 
 .firstLeftContainerTextFont {
     font-size: 9px;
-    margin-top: 7px;
+    margin-top: 74px;
 }
 
-#firstRightContainer {
-    float: right;
-    width: 33%;
+#firstCenterContainer {
+    float: left;
+    width: 33.3333%;
     height: 290px;
     background-size: cover;
     background-image: url("../img/event_&festivalmanagment.png");
+    background-position: center;
+}
+
+#firstRightContainer {
+    float: left;
+    width: 33.3333%;
+    height: 290px;
+    background-size: cover;
+    background-image: url("../img/gastro.png");
     background-position: center;
 }
 
@@ -776,16 +807,7 @@ a {
 }
 
 #secondLeftContainer {
-    width: 33%;
-    height: 290px;
-    float: left;
-    background-size: cover;
-    background-image: url("../img/gastro.png");
-    background-position: center;
-}
-
-#secondCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 290px;
     float: left;
     background-size: cover;
@@ -793,12 +815,21 @@ a {
     background-position: center;
 }
 
-#secondRightContainer {
-    width: 33%;
+#secondCenterContainer {
+    width: 33.3333%;
     height: 290px;
     float: left;
     background-size: cover;
     background-image: url("../img/promotion.png");
+    background-position: center;
+}
+
+#secondRightContainer {
+    width: 33.3333%;
+    height: 290px;
+    float: left;
+    background-size: cover;
+    background-image: url("../img/festivals_equipment.png");
     background-position: center;
 }
 
@@ -808,16 +839,7 @@ a {
 }
 
 #thirdLeftContainer {
-    width: 33%;
-    height: 290px;
-    float: left;
-    background-size: cover;
-    background-image: url("../img/festivals_equipment.png");
-    background-position: center;
-}
-
-#thirdCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 290px;
     float: left;
     background-size: cover;
@@ -825,12 +847,21 @@ a {
     background-position: center;
 }
 
-#thirdRightContainer {
-    float: left;
-    width: 33%;
+#thirdCenterContainer {
+    width: 33.3333%;
     height: 290px;
+    float: left;
     background-size: cover;
     background-image: url("../img/messe_auf-.png");
+    background-position: center;
+}
+
+#thirdRightContainer {
+    float: left;
+    width: 33.3333%;
+    height: 290px;
+    background-size: cover;
+    background-image: url("../img/tribuenen.png");
     background-position: center;  
 }
 
@@ -840,17 +871,17 @@ a {
 }
 
 #forthLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 290px;
     float: left;
     background-size: cover;
-    background-image: url("../img/tribuenen.png");
+    background-image: url("../img/fil&teknik.png");
     background-position: center;
     border-bottom: 3px solid #df5490;
 }
 
 #forthCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 290px;
     float: left;
     background-size: cover;
@@ -861,7 +892,7 @@ a {
 
 #forthRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 290px;
     background-color: #df5490;
 }
@@ -990,14 +1021,14 @@ p {
 
 #firstContainer {
     width: 100%;
-    height: 950px;
+    height: 1400px;
     margin-top: 78px;
 }
 
 #firstLeftContainerText {
     width: 84%;
     height: 350px;
-    margin-left: 9%;
+    margin-left: 13%;
     margin-top: 43px;
 }
 
@@ -1013,14 +1044,19 @@ p {
 
 #firstLeftContainer {
     width: 100%;
-    height: 450px;
+    height: 400px;
     float: left;
     background-color: #df5490;
-    position: relative;
+}
+
+#firstCenterContainer {
+    float: left;
+    width: 100%;
+    height: 500px;
 }
 
 #firstRightContainer {
-    float: right;
+    float: left;
     width: 100%;
     height: 500px;
 }
@@ -1245,11 +1281,18 @@ h6, p {
     margin-top: 4px;
 }
 
+#firstLeftContainer {
+    width: 100%;
+    height: 330px;
+    float: left;
+    background-color: #df5490;
+}
+
 #firstLeftContainerText {
     width: 92%;
     height: 420px;
-    margin-left: 6%;
-    margin-top: 16px;
+    margin-left: 5%;
+    margin-top: 20px;
 }
 
 #firstLeftContainerTextFont {
@@ -1259,7 +1302,9 @@ h6, p {
 
 .firstLeftContainerTextFont {
     font-size: 12px;
-    margin-bottom: 61px;
+    /* margin-bottom: 61px; */
+    margin-left: 1%;
+    margin-top: 20px;
 }
 
 #copyright {
