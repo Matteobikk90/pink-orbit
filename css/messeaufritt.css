@@ -50,7 +50,7 @@ a:hover {
     width: 13%;
     height: 153px;
     position: absolute;
-    margin-left: 38%;
+    margin-left: 37%;
     margin-top: -64px;
 }
 
@@ -132,7 +132,7 @@ a:hover {
     list-style: none;
 }
 
-#faceIcon {
+.faceIcon {
     width: 34px;
     height: 34px;
     margin-top: 4px;
@@ -147,11 +147,11 @@ body {
 }
 
 .navBarLogo {
-    width: 13%;
+    width: 7%;
     height: 180px;
     position: absolute;
     margin-left: 40%;
-    margin-top: -59px;
+    margin-top: -62px;
 }
 
 .container {
@@ -188,6 +188,12 @@ body {
     list-style: none;
 }
 
+.faceIcon {
+    width: 38px;
+    height: 38px;
+    margin-top: 4px;
+}
+
 }
 
 @media only screen and (max-width: 1024px) {
@@ -197,11 +203,20 @@ body {
     height: 142px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -43px;
+    margin-top: -38px;
 }
 
 .navbar-brand {
     display: none;
+}
+
+.container {
+    margin-top: 36px;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 120px;
 }
 
 .aLogo {
@@ -209,9 +224,18 @@ body {
     height: 126px;
 }
 
+#firstBackground {
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/messe_HEADER.png);
+    margin-top: 120px;
+}
+
 #description {
     width: 100%;
-    height: 414px;
+    height: 300px;
 }
 
 #descriptionList {
@@ -250,7 +274,7 @@ body {
     height: 116px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -36px;
+    margin-top: -38px;
 }
 
 .aLogo {
@@ -259,12 +283,12 @@ body {
 }
 
 .container {
-    margin-top: 30px;
+    margin-top: 26px;
 }
 
 .navbar-default {
     background-color: white;
-    height: 114px;
+    height: 100px;
 }
 
 .navbar-brand {
@@ -278,7 +302,7 @@ body {
 
 #firstBackground {
     height: 318px;
-    margin-top: 111px;
+    margin-top: 100px;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -301,8 +325,10 @@ h3 {
 
 #description {
     width: 100%;
-    height: 300px;
+    height: 190px;
 }
+
+
 
 #descriptionList {
     margin-left: 15%;
@@ -367,7 +393,8 @@ h3 {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #e7e7e7;
-    margin-left: 75%;
+    margin-left: 69%;
+    width: 33%;
 }
 
 .navbar-default {
@@ -386,7 +413,7 @@ h3 {
 
 #description {
     width: 100%;
-    height: 480px;
+    height: 320px;
 }
 
 #descriptionList {
@@ -434,7 +461,7 @@ h3 {
     /* float: left; */
     margin-right: 8px;
     width: 33%;
-    margin-top: -109px;
+    margin-top: -210px;
     text-decoration: none;
     list-style: none;
 }
@@ -474,7 +501,7 @@ h3 {
     margin-right: 10px;
     /* float: left; */
     width: 37%;
-    margin-top: -86px;
+    margin-top: -210px;
 }
 
 }
@@ -494,13 +521,18 @@ h3 {
     margin-top: -10px;
 }
 
+.aLogo {
+    width: 100%;
+    height: 100%;
+}
+
 .linksInside {
     font-size: 12px;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    width: 48%;
-    margin-left: 65%;
+    width: 43%;
+    margin-left: 60%;
 }
 
 faceLogo {

@@ -50,7 +50,7 @@ a:hover {
     width: 13%;
     height: 153px;
     position: absolute;
-    margin-left: 38%;
+    margin-left: 37%;
     margin-top: -64px;
 }
 
@@ -147,11 +147,11 @@ body {
 }
 
 .navBarLogo {
-    width: 13%;
+    width: 7%;
     height: 180px;
     position: absolute;
     margin-left: 40%;
-    margin-top: -59px;
+    margin-top: -62px;
 }
 
 .container {
@@ -164,7 +164,7 @@ body {
     background-size: cover;
     background-position: center;
     background-image: url(../img/stage-design_HEADER.png);
-    margin-top: 181px;
+    margin-top: 140px;
 }
 
 #description {
@@ -203,11 +203,19 @@ body {
     height: 142px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -43px;
+    margin-top: -38px;
 }
 
 .navbar-brand {
     display: none;
+}
+
+.navbar-default {
+    height: 120px;
+}
+
+.container {
+    margin-top: 26px;
 }
 
 .aLogo {
@@ -256,7 +264,7 @@ body {
     height: 116px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -36px;
+    margin-top: -38px;
 }
 
 .aLogo {
@@ -265,12 +273,12 @@ body {
 }
 
 .container {
-    margin-top: 30px;
+    margin-top: 26px;
 }
 
 .navbar-default {
     background-color: white;
-    height: 114px;
+    height: 100px;
 }
 
 .navbar-brand {
@@ -284,7 +292,7 @@ body {
 
 #firstBackground {
     height: 318px;
-    margin-top: 111px;
+    margin-top: 100px;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -373,7 +381,8 @@ h3 {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #e7e7e7;
-    margin-left: 75%;
+    margin-left: 69%;
+    width: 33%;
 }
 
 .navbar-default {
@@ -440,7 +449,7 @@ h3 {
     /* float: left; */
     margin-right: 8px;
     width: 33%;
-    margin-top: -109px;
+    margin-top: -210px;
     text-decoration: none;
     list-style: none;
 }
@@ -485,7 +494,7 @@ h3 {
     margin-right: 10px;
     /* float: left; */
     width: 37%;
-    margin-top: -86px;
+    margin-top: -210px;
 }
 
 }
@@ -510,8 +519,8 @@ h3 {
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    width: 48%;
-    margin-left: 65%;
+    width: 43%;
+    margin-left: 60%;
 }
 
 #description {

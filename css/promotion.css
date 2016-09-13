@@ -50,7 +50,7 @@ a:hover {
     width: 13%;
     height: 153px;
     position: absolute;
-    margin-left: 38%;
+    margin-left: 37%;
     margin-top: -64px;
 }
 
@@ -147,11 +147,11 @@ body {
 }
 
 .navBarLogo {
-    width: 13%;
+    width: 7%;
     height: 180px;
     position: absolute;
     margin-left: 40%;
-    margin-top: -59px;
+    margin-top: -62px;
 }
 
 .container {
@@ -208,20 +208,41 @@ body {
 @media only screen and (max-width: 1024px) {
 
 .navBarLogo {
-    width: 16%;
-    height: 142px;
+    width: 150px;
+    height: 150px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -43px;
+    margin-top: -38px;
+}
+
+.aLogo {
+    width: 100%;
+    height: 100%;
 }
 
 .navbar-brand {
     display: none;
 }
 
+.navbar-default {
+    height: 120px;
+}
+.container {
+    margin-top: 36px;
+}
+
 .aLogo {
     width: 89%;
     height: 126px;
+}
+
+#firstBackground {
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/promotion_HEADER.png);
+    margin-top: 120px;
 }
 
 #description {
@@ -265,7 +286,7 @@ body {
     height: 116px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -36px;
+    margin-top: -38px;
 }
 
 .aLogo {
@@ -274,12 +295,12 @@ body {
 }
 
 .container {
-    margin-top: 30px;
+    margin-top: 26px;
 }
 
 .navbar-default {
     background-color: white;
-    height: 114px;
+    height: 100px;
 }
 
 .navbar-brand {
@@ -293,7 +314,7 @@ body {
 
 #firstBackground {
     height: 318px;
-    margin-top: 111px;
+    margin-top: 100px;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -382,7 +403,8 @@ h3 {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #e7e7e7;
-    margin-left: 75%;
+    margin-left: 69%;
+    width: 33%;
 }
 
 .navbar-default {
@@ -447,9 +469,9 @@ h3 {
 
 #faceLogo {
     /* float: left; */
-    margin-right: 8px;
+    margin-left: 65%;
     width: 33%;
-    margin-top: -109px;
+    margin-top: -210px;
     text-decoration: none;
     list-style: none;
 }
@@ -486,10 +508,10 @@ h3 {
 }
 
 #faceLogo {
-    margin-right: 10px;
     /* float: left; */
-    width: 37%;
-    margin-top: -86px;
+    width: 33%;
+    margin-top: -210px;
+    margin-left: 61%;
 }
 
 }
@@ -514,15 +536,15 @@ h3 {
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    width: 48%;
-    margin-left: 65%;
+    width: 43%;
+    margin-left: 60%;
 }
 
-faceLogo {
+#faceLogo {
     /* float: left; */
-    width: 42%;
-    margin-top: -87px;
-    margin-right: -4px;
+    width: 33%;
+    margin-top: -210px;
+    margin-left: 57%;
 }
 
 }

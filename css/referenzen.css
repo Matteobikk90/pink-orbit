@@ -41,7 +41,7 @@ body {
     width: 13%;
     height: 153px;
     position: absolute;
-    margin-left: 38%;
+    margin-left: 37%;
     margin-top: -64px;
 }
 
@@ -281,7 +281,7 @@ h6 {
     height: 180px;
     position: absolute;
     margin-left: 40%;
-    margin-top: -59px;
+    margin-top: -62px;
 }
 
 .container {
@@ -470,21 +470,26 @@ h6 {
 }
 
 .navBarLogo {
-    width: 16%;
-    height: 117px;
+    width: 150px;
+    height: 150px;
     position: absolute;
     margin-left: 0%;
     margin-top: -34px;
 }
 
+.aLogo {
+    width: 100%;
+    height: 100%;
+}
+
 .container {
-    margin-top: 32px;
+    margin-top: 36px;
     width: 91%;
 }
 
 .navbar-default {
     background-color: white;
-    height: 123px;
+    height: 120px;
 }
 
 .navbar-brand {
@@ -697,6 +702,14 @@ h6 {
     margin-top: -38px;
 }
 
+.navbar-default {
+    height: 100px;
+}
+
+.container {
+    margin-top: 26px;
+}
+
 .firstLeftContainerTextFont {
     font-size: 15px;
 }
@@ -704,6 +717,7 @@ h6 {
 #firstContainer {
     width: 100%;
     height: 303px;
+    margin-top: 100px;
 }
 
 #firstLeftContainer {
@@ -924,7 +938,7 @@ p {
 
 .navbar-default {
     background-color: white;
-    height: 114px;
+    height: 78px;
 }
 
 .container {
@@ -946,7 +960,9 @@ p {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #e7e7e7;
-    margin-left: 75%;
+    margin-left: 69%;
+    width: 33%;
+    margin-top: 65px;
 }
 
 #firstContainer {
@@ -959,7 +975,7 @@ p {
     width: 84%;
     height: 350px;
     margin-left: 11%;
-    margin-top: 70px;
+    margin-top: 38px;
 }
 
 #firstLeftContainerTextFont {
@@ -1169,8 +1185,8 @@ h6, p {
 @media only screen and (max-width: 320px) {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    width: 48%;
-    margin-left: 65%;
+    width: 43%;
+    margin-left: 60%;
 }
 
 .navBarLogo {
@@ -1192,7 +1208,7 @@ h6, p {
     width: 84%;
     height: 243px;
     margin-left: 12%;
-    margin-top: 74px;
+    margin-top: 42px;
 }
 
 #forthRightContainerText {

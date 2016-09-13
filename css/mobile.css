@@ -164,7 +164,12 @@ body {
     background-size: cover;
     background-position: center;
     background-image: url(../img/tribunen_HEADER.png);
-    margin-top: 181px;
+    margin-top: 140px;
+}
+
+#description {
+    width: 100%;
+    height: 330px;
 }
 
 #descriptionList {
@@ -194,11 +199,20 @@ body {
 @media only screen and (max-width: 1024px) {
 
 .navBarLogo {
-    width: 16%;
-    height: 142px;
+    width: 150px;
+    height: 150px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -43px;
+    margin-top: -50px;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 120px;
+}
+
+.container {
+    margin-top: 36px;
 }
 
 .navbar-brand {
@@ -206,13 +220,22 @@ body {
 }
 
 .aLogo {
-    width: 89%;
-    height: 126px;
+    width: 100%;
+    height: 100%;
+}
+
+#firstBackground {
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/tribunen_HEADER.png);
+    margin-top: 120px;
 }
 
 #description {
     width: 100%;
-    height: 414px;
+    height: 310px;
 }
 
 #descriptionList {
@@ -302,7 +325,7 @@ h3 {
 
 #description {
     width: 100%;
-    height: 300px;
+    height: 190px;
 }
 
 #descriptionList {
@@ -310,13 +333,22 @@ h3 {
     font-size: 13px;
 }
 
+#footerWeOffer {
+    height: 300px;
+    width: 100%;
+}
+
 #footerWeOfferText {
-    height: 348px;
+    height: 300px;
     width: 90%;
     margin-left: 5%;
     margin-top: 90px;
     background-color: white;
     color: #df5490;
+}
+
+#footerWeOfferText {
+    height: 300px;
 }
 
 .footerWeOfferText {
@@ -368,7 +400,8 @@ h3 {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #e7e7e7;
-    margin-left: 75%;
+    margin-left: 69%;
+    width: 33%;
 }
 
 .navbar-default {
@@ -387,7 +420,7 @@ h3 {
 
 #description {
     width: 100%;
-    height: 480px;
+    height: 340px;
 }
 
 #descriptionList {
@@ -435,7 +468,7 @@ h3 {
     /* float: left; */
     margin-right: 8px;
     width: 33%;
-    margin-top: -109px;
+    margin-top: -210px;
     text-decoration: none;
     list-style: none;
 }
@@ -471,11 +504,16 @@ h3 {
     margin-top: -20px;
 }
 
+#description {
+    width: 100%;
+    height: 370px;
+}
+
 #faceLogo {
     margin-right: 10px;
     /* float: left; */
     width: 37%;
-    margin-top: -86px;
+    margin-top: -210px;
 }
 
 }
@@ -495,13 +533,18 @@ h3 {
     margin-top: -10px;
 }
 
+.aLogo {
+    width: 100%;
+    height: 100%;
+}
+
 .linksInside {
     font-size: 12px;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    width: 48%;
-    margin-left: 65%;
+    width: 43%;
+    margin-left: 60%;
 }
 
 faceLogo {

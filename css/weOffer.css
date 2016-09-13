@@ -41,8 +41,8 @@ body {
     width: 13%;
     height: 153px;
     position: absolute;
-    margin-left: 38%;
-    margin-top: -64px;
+    margin-left: 37%;
+    margin-top: -62px;
 }
 
 #faceIcon {
@@ -457,21 +457,26 @@ a {
 }
 
 .navBarLogo {
-    width: 14%;
-    height: 123px;
+    width: 150px;
+    height: 150px;
     position: absolute;
     margin-left: 0%;
     margin-top: -39px;
 }
 
+.aLogo {
+    width: 100%;
+    height: 100%;
+}
+
 .container {
-    margin-top: 39px;
+    margin-top: 36px;
     width: 91%;
 }
 
 .navbar-default {
     background-color: white;
-    height: 123px;
+    height: 120px;
 }
 
 .navbar-brand {
@@ -501,7 +506,7 @@ a {
     width: 84%;
     height: 310px;
     margin-left: 8%;
-    margin-top: 45px;
+    margin-top: 32px;
 }
 
 #firstLeftContainerTextFont {
@@ -645,9 +650,9 @@ a {
 .readMore {
     width: 93%;
     height: 93px;
-    margin-top: 253px;
+    margin-top: 254px;
     color: #df5490;
-    margin-left: 7%;
+    margin-left: 4%;
     font-size: 16px;
 }
 
@@ -699,7 +704,7 @@ a {
     height: 116px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -36px;
+    margin-top: -38px;
 }
 
 .aLogo {
@@ -708,12 +713,12 @@ a {
 }
 
 .container {
-    margin-top: 19px;
+    margin-top: 26px;
 }
 
 .navbar-default {
     background-color: white;
-    height: 90px;
+    height: 100px;
 }
 
 .navbar-brand {
@@ -937,7 +942,7 @@ p {
     height: 90px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -20px;
+    margin-top: -38px;
 }
 
 .aLogo {
@@ -974,7 +979,7 @@ p {
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #e7e7e7;
     margin-left: 69%;
-    width: 32%;
+    width: 33%;
     margin-top: 46px;
 }
 
@@ -1135,7 +1140,7 @@ p {
     margin-left: 63%;
     float: left;
     width: 33%;
-    margin-top: -128px;
+    margin-top: -160px;
 }
 
 .impressumMail {
@@ -1174,14 +1179,14 @@ h6, p {
     height: 90px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -20px;
+    margin-top: -38px;
 }
 
 #faceLogo {
     margin-left: 57%;
     float: left;
     width: 37%;
-    margin-top: -130px;
+    margin-top: -160px;
 }
 
 #firstLeftContainerText {
@@ -1209,14 +1214,19 @@ h6, p {
     margin-left: 55%;
     float: left;
     width: 42%;
-    margin-top: -130px;
+    margin-top: -165px;
 }
 
 .navBarLogo {
     width: 70px;
     height: 70px;
     position: absolute;
-    margin-top: -10px;
+    margin-top: -26px;
+}
+
+.aLogo {
+    width: 100%;
+    height: 100%;
 }
 
 .faceIcon {
