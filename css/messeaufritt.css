@@ -544,6 +544,11 @@ h3 {
     margin-left: 60%;
 }
 
+#description {
+    width: 100%;
+    height: 355px;
+}
+
 #faceLogo {
     /* float: left; */
     width: 42%;
