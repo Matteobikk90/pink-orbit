@@ -402,7 +402,7 @@ body {
 }
 
 .navBarLogo {
-    width: 17%;
+    width: 18%;
     height: 116px;
     position: absolute;
     margin-left: 0%;
@@ -410,8 +410,8 @@ body {
 }
 
 .aLogo {
-    width: 89%;
-    height: 126px;
+    width: 100%;
+    height: 100%;
 }
 
 .container {
