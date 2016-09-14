@@ -707,6 +707,11 @@ h6 {
     margin-top: -38px;
 }
 
+.aLogo {
+    width: 100%;
+    height: 100%;
+}
+
 .navbar-default {
     height: 100px;
 }
