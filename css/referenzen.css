@@ -643,9 +643,9 @@ h6 {
 #forthRightContainerText {
     height: 350px;
     width: 63%;
-    margin-left: 19%;
-    margin-top: -22px;
-    text-align: center;
+    margin-left: 24%;
+    margin-top: 2px;
+    /* text-align: center; */
 }
 
 .forthRightContainerText {
@@ -656,10 +656,11 @@ h6 {
 .readMore {
     width: 93%;
     height: 93px;
-    margin-top: 258px;
+    margin-top: 264px;
     color: #df5490;
     margin-left: 3%;
     font-size: 16px;
+    line-height: 14px;
 }
 
 .h6, h6 {
@@ -862,7 +863,7 @@ h6 {
     height: 290px;
     width: 85%;
     margin-left: 8%;
-    margin-top: -14px;
+    margin-top: 8px;
 }
 
 .forthRightContainerText {
@@ -918,12 +919,13 @@ p {
 .readMoreColor {
     color: #df5490;
     font-size: 10px;
+    line-height: 12px;
 }
 
 .readMore {
     width: 98%;
     height: 64px;
-    margin-top: 223px;
+    margin-top: 234px;
     color: #df5490;
     margin-left: 2%;
 }
@@ -1213,10 +1215,10 @@ h6, p {
 }
 
 #faceLogo {
-    margin-left: 58%;
-    float: left;
+    /* float: left; */
     width: 42%;
-    margin-top: -167px;
+    margin-top: -60px;
+    margin-left: -13%;
 }
 
 #firstLeftContainerText {
@@ -1240,6 +1242,8 @@ h6, p {
 #copyright {
     color: #df5490;
     font-size: 10px;
+    margin-top: 94px;
+    margin-left: -2%;
 }
 
 }

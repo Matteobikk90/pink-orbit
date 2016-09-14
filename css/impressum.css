@@ -736,14 +736,16 @@ h3 {
 
 #faceLogo {
     /* margin-left: -10%; */
-    /* float: left; */-
-    width: 35%;
-    margin-top: -160px;
+    /* float: left; */
+    margin-top: -50px;
+    margin-right: 218px;
 }
 
 #copyright {
     color: #df5490;
     font-size: 10px;
+    margin-top: 94px;
+    margin-left: -1%;
 }
 
 
