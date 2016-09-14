@@ -108,7 +108,7 @@ body {
 }
 
 #secondLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
@@ -117,7 +117,7 @@ body {
 }
 
 #secondCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
@@ -126,7 +126,7 @@ body {
 }
 
 #secondRightContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
@@ -141,7 +141,7 @@ body {
 }
 
 #thirdLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
@@ -151,7 +151,7 @@ body {
 }
 
 #thirdCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
@@ -162,7 +162,7 @@ body {
 
 #thirdRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 500px;
     background-size: cover;
     background-image: url("../img/07_OTTAKRING-STAND.png");
@@ -178,7 +178,7 @@ body {
 }
 
 #forthLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
@@ -188,7 +188,7 @@ body {
 }
 
 #forthCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 500px;
     float: left;
     background-size: cover;
@@ -199,7 +199,7 @@ body {
 
 #forthRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 500px;
     background-color: #df5490;
 }
@@ -335,7 +335,7 @@ h6 {
 }
 
 #secondLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -344,7 +344,7 @@ h6 {
 }
 
 #secondCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -353,7 +353,7 @@ h6 {
 }
 
 #secondRightContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -367,7 +367,7 @@ h6 {
 }
 
 #thirdLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -376,7 +376,7 @@ h6 {
 }
 
 #thirdCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -386,7 +386,7 @@ h6 {
 
 #thirdRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     background-size: cover;
     background-image: url("../img/07_OTTAKRING-STAND.png");
@@ -399,7 +399,7 @@ h6 {
 }
 
 #forthLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -409,7 +409,7 @@ h6 {
 }
 
 #forthCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 650px;
     float: left;
     background-size: cover;
@@ -420,7 +420,7 @@ h6 {
 
 #forthRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 650px;
     background-color: #df5490;
 }
@@ -549,7 +549,7 @@ h6 {
 }
 
 #secondLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
@@ -558,7 +558,7 @@ h6 {
 }
 
 #secondCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
@@ -567,7 +567,7 @@ h6 {
 }
 
 #secondRightContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
@@ -581,7 +581,7 @@ h6 {
 }
 
 #thirdLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
@@ -590,7 +590,7 @@ h6 {
 }
 
 #thirdCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
@@ -600,7 +600,7 @@ h6 {
 
 #thirdRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 350px;
     background-size: cover;
     background-image: url("../img/07_OTTAKRING-STAND.png");
@@ -613,7 +613,7 @@ h6 {
 }
 
 #forthLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
@@ -623,7 +623,7 @@ h6 {
 }
 
 #forthCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 350px;
     float: left;
     background-size: cover;
@@ -634,7 +634,7 @@ h6 {
 
 #forthRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 350px;
     background-color: #df5490;
 }
@@ -768,7 +768,7 @@ h6 {
 }
 
 #secondLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 303px;
     float: left;
     background-size: cover;
@@ -777,7 +777,7 @@ h6 {
 }
 
 #secondCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 303px;
     float: left;
     background-size: cover;
@@ -786,7 +786,7 @@ h6 {
 }
 
 #secondRightContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 303px;
     float: left;
     background-size: cover;
@@ -800,7 +800,7 @@ h6 {
 }
 
 #thirdLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 303px;
     float: left;
     background-size: cover;
@@ -809,7 +809,7 @@ h6 {
 }
 
 #thirdCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 303px;
     float: left;
     background-size: cover;
@@ -819,7 +819,7 @@ h6 {
 
 #thirdRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 303px;
     background-size: cover;
     background-image: url("../img/07_OTTAKRING-STAND.png");
@@ -832,7 +832,7 @@ h6 {
 }
 
 #forthLeftContainer {
-    width: 33%;
+    width: 33.3333%;
     height: 303px;
     float: left;
     background-size: cover;
@@ -842,7 +842,7 @@ h6 {
 }
 
 #forthCenterContainer {
-    width: 34%;
+    width: 33.3333%;
     height: 303px;
     float: left;
     background-size: cover;
@@ -853,7 +853,7 @@ h6 {
 
 #forthRightContainer {
     float: left;
-    width: 33%;
+    width: 33.3333%;
     height: 303px;
     background-color: #df5490;
 }
