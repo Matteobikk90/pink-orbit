@@ -773,16 +773,16 @@ a {
     /* text-align: center; */
     letter-spacing: 0px;
     margin-left: 3%;
-    margin-top: 48px;
+    margin-top: 28px;
 }
 
 #firstLeftContainerTextFont {
-    font-size: 12px;
-    margin-bottom: -10px;
+    font-size: 13px;
+    margin-bottom: 12px;
 }
 
 .firstLeftContainerTextFont {
-    font-size: 10px;
+    font-size: 11px;
     margin-top: 74px;
 }
 
