@@ -1224,6 +1224,19 @@ h6, p {
     margin-top: -38px;
 }
 
+#firstLeftContainer {
+    width: 100%;
+    height: 330px;
+    float: left;
+    background-color: #df5490;
+}
+
+#firstContainer {
+    width: 100%;
+    height: 1330px;
+    margin-top: 78px;
+}
+
 #faceLogo {
     margin-left: 57%;
     float: left;
