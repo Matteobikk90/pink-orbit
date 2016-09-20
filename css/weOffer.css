@@ -1007,6 +1007,13 @@ p {
     width: 36%;
 }
 
+#forthRightContainerText {
+    height: 290px;
+    width: 74%;
+    margin-left: 16%;
+    margin-top: -8px;
+}
+
 }
 
 @media only screen and (max-width: 425px) {
