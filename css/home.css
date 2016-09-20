@@ -66,7 +66,7 @@ a:hover {
 }
 
 #firstBackground {
-    height: 500px;
+    height: 722px;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -224,11 +224,11 @@ body {
 }
 
 #firstBackground {
-    height: 900px;
+    height: 1373px;
     width: 100%;
     background-size: cover;
     background-position: center;
-    background-image: url("../img/headerHome.png");
+    background-image: url(../img/headerHome.png);
 }
 
 #threeDivsMainContainer {
@@ -511,6 +511,27 @@ body {
 
 .impressumMail {
     font-size: 16px;
+}
+
+}
+
+@media only screen and (max-width: 480px) {
+
+.navBarLogo {
+    width: 14%;
+    height: 84px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: -16px;
+}
+
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 70px;
+    background-color: white;
+    margin-left: -9%;
+    width: 36%;
 }
 
 }
