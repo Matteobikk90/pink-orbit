@@ -155,7 +155,7 @@ body {
     height: 500px;
     float: left;
     background-size: cover;
-    background-image: url("../img/06_charg-e.png");
+    background-image: url("../img/07_OTTAKRING-STAND.png");
     background-position: center;
     border-bottom: 1px solid #df5490;
 }
@@ -165,7 +165,7 @@ body {
     width: 33.3333%;
     height: 500px;
     background-size: cover;
-    background-image: url("../img/07_OTTAKRING-STAND.png");
+    background-image: url("../img/06_charg-e.png");
     background-position: center;
     border-bottom: 1px solid #df5490;   
 }
