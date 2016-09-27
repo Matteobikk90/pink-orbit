@@ -1,6 +1,6 @@
 <h1>Matteo Soresini</h1>
 
-<p>Tech used: HTML5/CSS37Bootstrap/GoogleAPI fonts.</p>
+<p>Tech used: HTML5/CSS3/jQuery/Bootstrap/GoogleAPI fonts.</p>
 <p>All pages are responsive plus all the devices version are available</p>
 
 <p>Personal Kontakt</p>
@@ -24,6 +24,8 @@
 <p>Hasnerstraße 123, 1160, Wien</p>
             
 <p>Telefon: +43 1 30 6161 – 0</p>
+
+<a href="pinkorbit.at">www.pinkorbit.at</a>
 
 <a href="mailto:office@pinkorbit.at">E-mail: office@pinkorbit.at</a>
 
