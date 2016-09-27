@@ -205,6 +205,18 @@ a {
 
 /*Media Queries*/
 
+@media only screen and (min-width: 1680px) {
+
+#firstBackground {
+    height: 1074px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/headerHome.png);
+}
+
+}
+
 @media only screen and (min-width: 1441px) {
 
 body {
@@ -212,10 +224,10 @@ body {
 }
 
 .navBarLogo {
-    width: 13%;
+    width: 12%;
     height: 180px;
     position: absolute;
-    margin-left: 40%;
+    margin-left: 38%;
     margin-top: -64px;
 }
 
