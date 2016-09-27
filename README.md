@@ -25,7 +25,7 @@
             
 <p>Telefon: +43 1 30 6161 – 0</p>
 
-<a href="pinkorbit.at">www.pinkorbit.at</a>
+<a href="http://www.pinkorbit.at/">http://www.pinkorbit.at/</a>
 
 <a href="mailto:office@pinkorbit.at">E-mail: office@pinkorbit.at</a>
 
