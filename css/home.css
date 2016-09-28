@@ -47,7 +47,7 @@ a:hover {
 
 #navbarHome {
     margin-bottom: -7px;
-    width: 33px;
+    width: 34px;
     height: 34px;
 }
 
@@ -412,6 +412,10 @@ body {
     font-size: 17px;
 }
 
+p {
+    height: 9px;
+}
+
 .navBarLogo {
     width: 17%;
     height: 121px;
@@ -504,21 +508,33 @@ body {
 }
 
 #footerWeOfferText {
-    height: 348px;
-    width: 90%;
-    margin-left: 5%;
+    height: 244px;
+    width: 80%;
+    margin-left: 12%;
     margin-top: 90px;
     background-color: white;
     color: #df5490;
 }
 
 #footerWeOffer {
-    height: 348px;
+    height: 255px;
     width: 100%;
 }
 
 .footerWeOfferText {
     font-size: 16px;
+}
+
+#footerWeOfferLeft {
+    width: 68%;
+    height: 177px;
+    float: left;
+}
+
+#faceLogo {
+    margin-top: -180px;
+    float: left;
+    margin-left: 71%;
 }
 
 .impressumMail {
