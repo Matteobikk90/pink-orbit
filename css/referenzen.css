@@ -948,6 +948,14 @@ p {
     margin-bottom: 38px;
 }*/
 
+.readMore {
+    width: 98%;
+    height: 64px;
+    margin-top: 230px;
+    color: #df5490;
+    margin-left: 2%;
+}
+
 .navBarLogo {
     width: 14%;
     height: 84px;

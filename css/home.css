@@ -830,6 +830,7 @@ ul {
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     width: 43%;
     margin-left: 60%;
+    margin-top: 62px;
 }
 
 #faceLogo {
