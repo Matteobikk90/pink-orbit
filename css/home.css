@@ -562,7 +562,7 @@ p {
     width: 36%;
 }
 
-#zsigetPhotoText {
+/*#zsigetPhotoText {
     height: 150px;
     width: 70%;
     text-align: center;
@@ -570,7 +570,7 @@ p {
     margin-top: 72px;
     position: absolute;
     font-size: 16px;
-}
+}*/
 
 }
 
@@ -700,7 +700,7 @@ p {
 
 #faceLogo {
     width: 31%;
-    margin-top: -210px;
+    margin-top: -337px;
     margin-right: 0px;
 }
 
@@ -776,7 +776,7 @@ ul {
     /* float: left; */
     margin-right: 0px;
     width: 35%;
-    margin-top: -206px;
+    margin-top: -274px;
 }
 
 #footerWeOfferLeft {
@@ -835,9 +835,9 @@ ul {
 #faceLogo {
     /* margin-left: -10%; */
     /* float: left; */
-    margin-right: 225px;
     width: 35%;
-    margin-top: -100px;
+    margin-left: -8%;
+    margin-top: -170px;
 }
 
 #copyright {
