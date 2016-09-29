@@ -216,13 +216,19 @@ a {
     background-image: url(../img/headerHome.png);
 }
 
+#threeDivsMainContainerInside {
+    width: 64%;
+    height: 183px;
+    margin-left: 21%;
+    margin-top: 93px;
+}
+
 #threeDivsMainContainerLeft {
     width: 25%;
     height: 314px;
     background-size: cover;
     background-image: url(../img/thirdRightHomeImg.png);
     float: left;
-    margin-left: 4%;
     text-align: center;
     border: 1px solid grey;
 }
@@ -233,7 +239,6 @@ a {
     background-size: cover;
     background-image: url("../img/secondCenterHomeImg.png");
     float: left;
-    margin-left: 4%;
     text-align: center;
     border: 1px solid grey;
 }
@@ -244,7 +249,6 @@ a {
     background-size: cover;
     background-image: url("../img/firstLeftHomeImg.png");
     float: left;
-    margin-left: 4%;
     text-align: center;
     border: 1px solid grey;
 }
@@ -255,6 +259,20 @@ a {
 
 @media only screen and (min-width: 1920px) {
 
+#firstBackground {
+    height: 915px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/headerHome.png);
+}
+
+#threeDivsMainContainerInside {
+    width: 64%;
+    height: 183px;
+    margin-left: 25%;
+    margin-top: 93px;
+}
 
 #threeDivsMainContainerLeft {
     width: 22%;
@@ -262,7 +280,6 @@ a {
     background-size: cover;
     background-image: url(../img/thirdRightHomeImg.png);
     float: left;
-    margin-left: 4%;
     text-align: center;
     border: 1px solid grey;
 }
@@ -273,7 +290,6 @@ a {
     background-size: cover;
     background-image: url("../img/secondCenterHomeImg.png");
     float: left;
-    margin-left: 4%;
     text-align: center;
     border: 1px solid grey;
 }
@@ -284,7 +300,6 @@ a {
     background-size: cover;
     background-image: url("../img/firstLeftHomeImg.png");
     float: left;
-    margin-left: 4%;
     text-align: center;
     border: 1px solid grey;
 }
@@ -295,6 +310,12 @@ a {
 
 @media only screen and (min-width: 2200px) {
 
+#threeDivsMainContainerInside {
+    width: 64%;
+    height: 183px;
+    margin-left: 28%;
+    margin-top: 93px;
+}
 
 #threeDivsMainContainerLeft {
     width: 19%;
@@ -302,7 +323,6 @@ a {
     background-size: cover;
     background-image: url(../img/thirdRightHomeImg.png);
     float: left;
-    margin-left: 4%;
     text-align: center;
     border: 1px solid grey;
 }
@@ -313,7 +333,6 @@ a {
     background-size: cover;
     background-image: url("../img/secondCenterHomeImg.png");
     float: left;
-    margin-left: 4%;
     text-align: center;
     border: 1px solid grey;
 }
@@ -324,7 +343,6 @@ a {
     background-size: cover;
     background-image: url("../img/firstLeftHomeImg.png");
     float: left;
-    margin-left: 4%;
     text-align: center;
     border: 1px solid grey;
 }
@@ -385,7 +403,6 @@ body {
     height: 480px;
     background-size: cover;
     float: left;
-    margin-left: 4%;
     text-align: center;
 }
 
@@ -394,7 +411,6 @@ body {
     height: 480px;
     background-size: cover;
     float: left;
-    margin-left: 4%;
     text-align: center;
 }
 
@@ -403,7 +419,6 @@ body {
     height: 480px;
     background-size: cover;
     float: left;
-    margin-left: 4%;
     text-align: center;
 }
 
