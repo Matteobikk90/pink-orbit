@@ -390,6 +390,15 @@ body {
     font-size: 18px;
 }
 
+#footerWeOfferText {
+    height: 335px;
+    width: 56%;
+    margin-left: 20%;
+    margin-top: 90px;
+    background-color: white;
+    color: #df5490;
+}
+
 #footerWeOfferLeft {
     width: 74%;
     height: 335px;

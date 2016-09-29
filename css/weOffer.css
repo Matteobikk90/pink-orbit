@@ -698,6 +698,15 @@ a {
     float: left;
 }
 
+#footerWeOfferText {
+    height: 335px;
+    width: 56%;
+    margin-left: 20%;
+    margin-top: 90px;
+    background-color: white;
+    color: #df5490;
+}
+
 .footerWeOfferText {
 	font-size: 18px; 
 	color: #df5490;
