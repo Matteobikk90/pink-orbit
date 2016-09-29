@@ -66,7 +66,7 @@ a:hover {
 }
 
 #firstBackground {
-    height: 470px;
+    height: 630px;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -205,19 +205,135 @@ a {
 
 /*Media Queries*/
 
+
 @media only screen and (min-width: 1680px) {
 
 #firstBackground {
-    height: 1074px;
+    height: 845px;
     width: 100%;
     background-size: cover;
     background-position: center;
     background-image: url(../img/headerHome.png);
 }
 
+#threeDivsMainContainerLeft {
+    width: 25%;
+    height: 314px;
+    background-size: cover;
+    background-image: url(../img/thirdRightHomeImg.png);
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
 }
 
-@media only screen and (min-width: 1441px) {
+#threeDivsMainContainerCenter {
+    width: 25%;
+    height: 314px;
+    background-size: cover;
+    background-image: url("../img/secondCenterHomeImg.png");
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+#threeDivsMainContainerRight {
+    width: 25%;
+    height: 314px;
+    background-size: cover;
+    background-image: url("../img/firstLeftHomeImg.png");
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+
+
+}
+
+@media only screen and (min-width: 1920px) {
+
+
+#threeDivsMainContainerLeft {
+    width: 22%;
+    height: 314px;
+    background-size: cover;
+    background-image: url(../img/thirdRightHomeImg.png);
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+#threeDivsMainContainerCenter {
+    width: 22%;
+    height: 314px;
+    background-size: cover;
+    background-image: url("../img/secondCenterHomeImg.png");
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+#threeDivsMainContainerRight {
+    width: 22%;
+    height: 314px;
+    background-size: cover;
+    background-image: url("../img/firstLeftHomeImg.png");
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+
+
+}
+
+@media only screen and (min-width: 2200px) {
+
+
+#threeDivsMainContainerLeft {
+    width: 19%;
+    height: 314px;
+    background-size: cover;
+    background-image: url(../img/thirdRightHomeImg.png);
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+#threeDivsMainContainerCenter {
+    width: 19%;
+    height: 314px;
+    background-size: cover;
+    background-image: url("../img/secondCenterHomeImg.png");
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+#threeDivsMainContainerRight {
+    width: 19%;
+    height: 314px;
+    background-size: cover;
+    background-image: url("../img/firstLeftHomeImg.png");
+    float: left;
+    margin-left: 4%;
+    text-align: center;
+    border: 1px solid grey;
+}
+
+
+
+}
+
+@media only screen and (min-width: 2560px) {
 
 body {
     font-size: 18px;
@@ -236,7 +352,7 @@ body {
 }
 
 #firstBackground {
-    height: 900px;
+    height: 1000px;
     width: 100%;
     background-size: cover;
     background-position: center;
