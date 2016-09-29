@@ -721,6 +721,23 @@ a {
 
 }
 
+@media only screen and (max-width: 950px) {
+
+h6 {
+    font-size: 15px;
+}
+
+#firstLeftContainerTextFont {
+    font-size: 13px;
+}
+
+.firstLeftContainerTextFont {
+    font-size: 12px;
+    margin-top: -39px;
+}
+
+}
+
 @media only screen and (max-width: 768px) { 
 
 .navbar-default .navbar-nav>li>a {
