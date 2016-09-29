@@ -208,6 +208,15 @@ a {
 
 @media only screen and (min-width: 1680px) {
 
+
+.navBarLogo {
+    width: 13%;
+    height: 153px;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -64px;
+}
+
 #firstBackground {
     height: 845px;
     width: 100%;
@@ -258,6 +267,14 @@ a {
 }
 
 @media only screen and (min-width: 1920px) {
+
+.navBarLogo {
+    width: 13%;
+    height: 153px;
+    position: absolute;
+    margin-left: 41.5%;
+    margin-top: -64px;
+}
 
 #firstBackground {
     height: 915px;
@@ -361,7 +378,7 @@ body {
     width: 12%;
     height: 180px;
     position: absolute;
-    margin-left: 38%;
+    margin-left: 42%;
     margin-top: -64px;
 }
 
@@ -370,7 +387,7 @@ body {
 }
 
 #firstBackground {
-    height: 1280px;
+    height: 1375px;
     width: 100%;
     background-size: cover;
     background-position: center;
