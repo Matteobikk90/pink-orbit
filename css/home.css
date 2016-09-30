@@ -66,7 +66,7 @@ a:hover {
 }
 
 #firstBackground {
-    height: 630px;
+    height: 570px;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -156,8 +156,8 @@ a {
     height: 150px;
     width: 51%;
     text-align: center;
-    margin-left: 23%;
-    margin-top: 175px;
+    margin-left: 24.5%;
+    margin-top: 188px;
     position: absolute;
     font-size: 22px;
 }
@@ -1003,6 +1003,10 @@ ul {
     font-size: 10px;
     margin-top: 94px;
     margin-left: -1%;
+}
+
+.mmmm {
+    margin-top: 44px;
 }
 
 
