@@ -1154,7 +1154,7 @@ p {
     height: 250px;
     width: 71%;
     margin-left: 15%;
-    margin-top: 14px;
+    margin-top: 25px;
 }
 
 #zsigetBackground {
@@ -1250,7 +1250,7 @@ h6, p {
     height: 250px;
     width: 71%;
     margin-left: 15%;
-    margin-top: -8px;
+    margin-top: 26px;
 }
 
 #copyright {
@@ -1289,11 +1289,20 @@ h6, p {
     margin-top: 42px;
 }
 
+#footerWeOfferText {
+    height: 450px;
+    width: 96%;
+    margin-left: 4%;
+    margin-top: 27px;
+    background-color: white;
+    color: #df5490;
+}
+
 #forthRightContainerText {
     height: 250px;
     width: 71%;
     margin-left: 14%;
-    margin-top: -16px;
+    margin-top: 14px;
 }
 
 .readMoreColor {
