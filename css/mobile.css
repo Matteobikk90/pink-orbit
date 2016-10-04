@@ -150,12 +150,7 @@ body {
     font-size: 18px;
 }
 
-#footerWeOfferLeft {
-    width: 50%;
-    height: 335px;
-    float: left;
-    margin-left: 19%;
-}
+
 
 .navBarLogo {
     width: 13%;
@@ -176,6 +171,29 @@ body {
     background-position: center;
     background-image: url(../img/tribunen_HEADER.png);
     margin-top: 140px;
+}
+
+#footerWeOffer {
+    height: 400px;
+    width: 100%;
+}
+
+
+
+#footerWeOfferLeft {
+    width: 66%;
+    height: 335px;
+    float: left;
+    margin-left: 18%;
+}
+
+#footerWeOfferText {
+    height: 335px;
+    width: 56%;
+    margin-left: 18%;
+    margin-top: 97px;
+    background-color: white;
+    color: #df5490;
 }
 
 #description {

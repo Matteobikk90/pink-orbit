@@ -150,6 +150,7 @@ body {
     font-size: 18px;
 }
 
+
 .navBarLogo {
     width: 7%;
     height: 180px;
@@ -198,12 +199,29 @@ body {
     list-style: none;
 }
 
+#footerWeOffer {
+    height: 400px;
+    width: 100%;
+}
+
+
+
 #footerWeOfferLeft {
-    width: 50%;
+    width: 66%;
     height: 335px;
     float: left;
-    margin-left: 19%;
+    margin-left: 18%;
 }
+
+#footerWeOfferText {
+    height: 335px;
+    width: 56%;
+    margin-left: 18%;
+    margin-top: 97px;
+    background-color: white;
+    color: #df5490;
+}
+
 
 }
 
