@@ -742,11 +742,10 @@ p {
 }
 
 .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
-    margin-right: -15px;
     margin-left: -15px;
-    margin-top: 70px;
+    margin-top: 74px;
     background-color: white;
-    margin-left: -9%;
+    margin-left: 73%;
     width: 36%;
 }
 
