@@ -150,6 +150,13 @@ body {
     font-size: 18px;
 }
 
+#footerWeOfferLeft {
+    width: 50%;
+    height: 335px;
+    float: left;
+    margin-left: 19%;
+}
+
 .navBarLogo {
     width: 7%;
     height: 180px;

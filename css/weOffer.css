@@ -1097,7 +1097,8 @@ h6 {
     width: 84%;
     height: 350px;
     margin-left: 8%;
-    margin-top: 43px;
+    margin-top: 0px;
+    line-height: 30px;
 }
 
 #firstLeftContainerTextFont {
@@ -1314,7 +1315,7 @@ h6, p {
     width: 84%;
     height: 371px;
     margin-left: 8%;
-    margin-top: 54px;
+    margin-top: 11px;
 }
 
 .firstLeftContainerTextFont {
@@ -1384,8 +1385,8 @@ h6, p {
 #firstLeftContainerText {
     width: 92%;
     height: 420px;
-    margin-left: 4%;
-    margin-top: 44px;
+    margin-left: 6%;
+    margin-top: -7px;
 }
 
 #firstLeftContainerTextFont {
