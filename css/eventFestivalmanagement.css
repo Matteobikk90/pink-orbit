@@ -97,10 +97,10 @@ a:hover {
 }
 
 #footerWeOfferText {
-    height:335px;
-    width: 70%;
-    margin-left: 15%;
-    margin-top: 90px;
+    height: 335px;
+    width: 56%;
+    margin-left: 28%;
+    margin-top: 110px;
     background-color: white;
     color: #df5490;
 }
@@ -236,6 +236,15 @@ body {
     height: 380px;
 }
 
+#footerWeOfferText {
+    height: 335px;
+    width: 56%;
+    margin-left: 20%;
+    margin-top: 90px;
+    background-color: white;
+    color: #df5490;
+}
+
 #descriptionList {
     margin-left: 15%;
 }
@@ -332,9 +341,9 @@ h3 {
 }
 
 #footerWeOfferText {
-    height: 348px;
-    width: 90%;
-    margin-left: 5%;
+    height: 244px;
+    width: 80%;
+    margin-left: 12%;
     margin-top: 90px;
     background-color: white;
     color: #df5490;
