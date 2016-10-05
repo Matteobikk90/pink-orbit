@@ -111,7 +111,7 @@ a:hover {
 }
 
 #faceLogo {
-
+    float: left;
     height: 250px;
 }
 
@@ -153,24 +153,43 @@ body {
 #footerWeOffer {
     height: 400px;
     width: 100%;
-}
-
-
-
-#footerWeOfferLeft {
-    width: 66%;
-    height: 335px;
-    float: left;
-    margin-left: 18%;
+    
 }
 
 #footerWeOfferText {
     height: 335px;
     width: 56%;
-    margin-left: 18%;
-    margin-top: 97px;
+    margin-left: 28%;
+    margin-top: 110px;
     background-color: white;
     color: #df5490;
+}
+
+.footerWeOfferText {
+    font-size: 22px; 
+    color: #df5490;
+}
+
+#faceLogo {
+    float: left;
+    height: 250px;
+}
+
+.faceIcon {
+    width: 34px;
+    height: 34px;
+    margin-top: 4px;
+}
+
+.impressumMail {
+    color: #df5490; 
+    font-size: 22px;
+}
+
+#footerWeOfferLeft {
+    width: 66%;
+    height: 335px;
+    float: left;
 }
 
 .navBarLogo {
@@ -226,15 +245,25 @@ body {
 @media only screen and (max-width: 1024px) {
 
 .navBarLogo {
-    width: 16%;
-    height: 142px;
+    width: 14%;
+    height: 123px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -43px;
+    margin-top: -39px;
+}
+
+.container {
+    margin-top: 39px;
+    width: 91%;
 }
 
 .navbar-brand {
     display: none;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 123px;
 }
 
 .aLogo {
@@ -494,7 +523,9 @@ h3 {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #e7e7e7;
-    margin-left: 75%;
+    margin-left: 69%;
+    width: 33%;
+    margin-top: 64px;
 }
 
 .navbar-default {
@@ -641,15 +672,35 @@ h3 {
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    width: 48%;
-    margin-left: 65%;
+    width: 43%;
+    margin-left: 60%;
+    margin-top: 62px;
 }
 
+
 #faceLogo {
-    /* float: left; */
+    margin-left: -12.5%;
+    float: left;
+    position: absolute;
     width: 42%;
-    margin-top: -100px;
-    margin-right: 218px;
+    margin-top: 260px;
+}
+
+#footerWeOfferLeft {
+    width: 100%;
+    height: 274px;
+    font-size: 14px;
+    margin-top: 29px;
+    /* float: left; */
+}
+
+#footerWeOfferText {
+    height: 454px;
+    width: 95%;
+    margin-left: 3%;
+    margin-top: 27px;
+    background-color: white;
+    color: #df5490;
 }
 
 #copyright {

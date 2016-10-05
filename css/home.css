@@ -1051,10 +1051,11 @@ ul {
 }
 
 #faceLogo {
-    margin-left: -8%;
+    margin-left: -7%;
     float: left;
+    position: absolute;
     width: 42%;
-    margin-top: -44px;
+    margin-top: 260px;
 }
 
 #footerWeOfferText {

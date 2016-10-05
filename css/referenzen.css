@@ -443,13 +443,46 @@ h6 {
     font-size: 23px;
 }
 
+#footerWeOffer {
+    height: 400px;
+    width: 100%;
+    
+}
+
 #footerWeOfferText {
     height: 335px;
-    width: 64%;
-    margin-left: 24%;
-    margin-top: 134px;
+    width: 56%;
+    margin-left: 28%;
+    margin-top: 110px;
     background-color: white;
     color: #df5490;
+}
+
+.footerWeOfferText {
+    font-size: 22px; 
+    color: #df5490;
+}
+
+#faceLogo {
+    float: left;
+    height: 250px;
+}
+
+.faceIcon {
+    width: 34px;
+    height: 34px;
+    margin-top: 4px;
+}
+
+.impressumMail {
+    color: #df5490; 
+    font-size: 22px;
+}
+
+#footerWeOfferLeft {
+    width: 66%;
+    height: 335px;
+    float: left;
 }
 
 .h6, h6 {
@@ -465,36 +498,26 @@ h6 {
 
 @media only screen and (max-width: 1024px) { 
 
-.navbar-default .navbar-nav>li>a {
-    color: #df5490;
-    font-size: 17px;
-}
-
 .navBarLogo {
-    width: 150px;
-    height: 150px;
+    width: 14%;
+    height: 123px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -34px;
-}
-
-.aLogo {
-    width: 100%;
-    height: 100%;
+    margin-top: -39px;
 }
 
 .container {
-    margin-top: 36px;
+    margin-top: 39px;
     width: 91%;
-}
-
-.navbar-default {
-    background-color: white;
-    height: 120px;
 }
 
 .navbar-brand {
     display: none;
+}
+
+.navbar-default {
+    background-color: white;
+    height: 123px;
 }
 
 .aLogo {
@@ -1290,7 +1313,9 @@ h6, p {
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     width: 43%;
     margin-left: 60%;
+    margin-top: 62px;
 }
+
 
 .navBarLogo {
     width: 70px;

@@ -197,13 +197,46 @@ body {
     background-color: #df5490;
 }
 
+#footerWeOffer {
+    height: 400px;
+    width: 100%;
+    
+}
+
 #footerWeOfferText {
     height: 335px;
     width: 56%;
-    margin-left: 20%;
+    margin-left: 28%;
     margin-top: 110px;
     background-color: white;
     color: #df5490;
+}
+
+.footerWeOfferText {
+    font-size: 22px; 
+    color: #df5490;
+}
+
+#faceLogo {
+    float: left;
+    height: 250px;
+}
+
+.faceIcon {
+    width: 34px;
+    height: 34px;
+    margin-top: 4px;
+}
+
+.impressumMail {
+    color: #df5490; 
+    font-size: 22px;
+}
+
+#footerWeOfferLeft {
+    width: 66%;
+    height: 335px;
+    float: left;
 }
 
 }
@@ -211,20 +244,15 @@ body {
 @media only screen and (max-width: 1024px) {
 
 .navBarLogo {
-    width: 150px;
-    height: 150px;
+    width: 14%;
+    height: 123px;
     position: absolute;
     margin-left: 0%;
     margin-top: -39px;
 }
 
-.aLogo {
-    width: 100%;
-    height: 100%;
-}
-
 .container {
-    margin-top: 36px;
+    margin-top: 39px;
     width: 91%;
 }
 
@@ -234,7 +262,7 @@ body {
 
 .navbar-default {
     background-color: white;
-    height: 120px;
+    height: 123px;
 }
 
 .aLogo {
@@ -579,6 +607,7 @@ h3 {
     border-color: #e7e7e7;
     margin-left: 69%;
     width: 33%;
+    margin-top: 64px;
 }
 
 #firstBackground {
@@ -799,7 +828,9 @@ h3 {
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     width: 43%;
     margin-left: 60%;
+    margin-top: 62px;
 }
+
 
 #topOne {
     width: 81%;
@@ -839,6 +870,15 @@ h3 {
     /* float: left; */
     margin-top: -57px;
     margin-right: 218px;
+}
+
+#footerWeOfferText {
+    height: 450px;
+    width: 96%;
+    margin-left: 4%;
+    margin-top: 27px;
+    background-color: white;
+    color: #df5490;
 }
 
 #footerWeOfferLeft {
