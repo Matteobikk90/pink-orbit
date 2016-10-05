@@ -668,14 +668,14 @@ h6 {
     font-size: 10px;
 }
 
-.footerWeOfferText {
-    font-size: 18px; 
-    color: #df5490;
+#footerWeOffer {
+    height: 336px;
+    width: 100%;
 }
-
-.impressumMail {
-    color: #df5490;
-    font-size: 18px;
+#footerWeOfferLeft {
+    width: 70%;
+    height: 335px;
+    float: left;
 }
 
 #footerWeOfferText {
@@ -687,12 +687,22 @@ h6 {
     color: #df5490;
 }
 
+.footerWeOfferText {
+    font-size: 18px; 
+    color: #df5490;
+}
+
+.impressumMail {
+    color: #df5490;
+    font-size: 18px;
+}
+
 #faceLogo {
     float: right;
     margin-top: 36px;
     height: 103px;
     width: 23%;
-    margin-top: -2px;
+    margin-top: 0px;
 }
 
 
@@ -700,17 +710,12 @@ h6 {
 
 @media only screen and (max-width: 768px) { 
 
-.navbar-default .navbar-nav>li>a {
-    color: #df5490;
-    font-size: 15px;
-}
-
 .navBarLogo {
     width: 17%;
     height: 121px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -38px;
+    margin-top: -36px;
 }
 
 .aLogo {
@@ -718,12 +723,22 @@ h6 {
     height: 100%;
 }
 
-.navbar-default {
-    height: 100px;
+.container {
+    margin-top: 19px;
 }
 
-.container {
-    margin-top: 26px;
+.navbar-default {
+    background-color: white;
+    height: 90px;
+}
+
+.navbar-brand {
+    display: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 16px;
 }
 
 .firstLeftContainerTextFont {
@@ -876,11 +891,6 @@ h6 {
     color: white;
 }
 
-#footerWeOffer {
-    height: 255px;
-    width: 100%;
-}
-
 #footerWeOfferText {
     height: 244px;
     width: 80%;
@@ -890,20 +900,21 @@ h6 {
     color: #df5490;
 }
 
+#footerWeOffer {
+    height: 350px;
+    width: 100%;
+}
+
+.footerWeOfferText {
+    font-size: 16px;
+}
+
+
+
 #footerWeOfferLeft {
     width: 68%;
     height: 177px;
     float: left;
-}
-
-.footerWeOfferText {
-    font-size: 16px; 
-    color: #df5490;
-}
-
-.impressumMail {
-    color: #df5490; 
-    font-size: 16px;
 }
 
 #faceLogo {
@@ -912,14 +923,16 @@ h6 {
     margin-left: 71%;
 }
 
+.impressumMail {
+    font-size: 16px;
+}
+
 .h6, h6 {
     font-size: 11px;
     height: 0px;
 }
 
-p {
-    height: 9px;
-}
+
 
 .readMoreColor {
     color: #df5490;
@@ -1164,7 +1177,7 @@ p {
 }
 
 #footerWeOffer {
-    height: 340px;
+    height: 312px;
     width: 100%;
 }
 
@@ -1176,6 +1189,8 @@ p {
     background-color: white;
     color: #df5490;
 }
+
+
 
 .footerWeOfferText {
     font-size: 14px;
@@ -1205,7 +1220,7 @@ p {
 }
 
 .readMore {
-    width: 95%;
+    width: 94%;
     height: 93px;
     margin-top: 340px;
     color: #df5490;
@@ -1241,10 +1256,19 @@ h6, p {
 }
 
 #faceLogo {
-    margin-left: 60%;
-    float: left;
-    width: 37%;
-    margin-top: -168px;
+    /* margin-left: auto; */
+    /* float: left; */
+    width: 27%;
+    margin-top: -163px;
+    margin-left: 61%;
+}
+
+#footerWeOfferLeft {
+    width: 100%;
+    height: 274px;
+    font-size: 14px;
+    margin-top: 29px;
+    /* float: left; */
 }
 
 #forthRightContainerText {

@@ -740,17 +740,12 @@ h6 {
 
 @media only screen and (max-width: 768px) { 
 
-.navbar-default .navbar-nav>li>a {
-    color: #df5490;
-    font-size: 15px;
-}
-
 .navBarLogo {
     width: 17%;
     height: 121px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -38px;
+    margin-top: -36px;
 }
 
 .aLogo {
@@ -759,16 +754,21 @@ h6 {
 }
 
 .container {
-    margin-top: 26px;
+    margin-top: 19px;
 }
 
 .navbar-default {
     background-color: white;
-    height: 100px;
+    height: 90px;
 }
 
 .navbar-brand {
     display: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #df5490;
+    font-size: 16px;
 }
 
 #firstContainer {
@@ -930,11 +930,6 @@ h6 {
     color: white;
 }
 
-#footerWeOffer {
-    height: 255px;
-    width: 100%;
-}
-
 #footerWeOfferText {
     height: 244px;
     width: 80%;
@@ -944,20 +939,19 @@ h6 {
     color: #df5490;
 }
 
+#footerWeOffer {
+    height: 350px;
+    width: 100%;
+}
+
+.footerWeOfferText {
+    font-size: 16px;
+}
+
 #footerWeOfferLeft {
     width: 68%;
     height: 177px;
     float: left;
-}
-
-.footerWeOfferText {
-	font-size: 16px; 
-	color: #df5490;
-}
-
-.impressumMail {
-	color: #df5490; 
-	font-size: 16px;
 }
 
 #faceLogo {
@@ -966,14 +960,16 @@ h6 {
     margin-left: 71%;
 }
 
+.impressumMail {
+    font-size: 16px;
+}
+
 .h6, h6 {
     font-size: 14px;
     height: 10px;
 }
 
-p {
-    height: 9px;
-}
+
 
 .readMoreColor {
     color: #df5490;
@@ -983,7 +979,7 @@ p {
 .readMore {
     width: 93%;
     height: 64px;
-    margin-top: 216px;
+    margin-top: 209px;
     color: #df5490;
     margin-left: 4%;
     font-size: 14px;
@@ -1218,19 +1214,19 @@ h6 {
 }
 
 #footerWeOffer {
-    height: 369px;
+    height: 312px;
     width: 100%;
-    float: left;
 }
 
 #footerWeOfferText {
     height: 348px;
-    width: 96%;
+    width: 94%;
     margin-left: 4%;
     margin-top: 27px;
     background-color: white;
     color: #df5490;
 }
+
 
 .footerWeOfferText {
     font-size: 14px;
@@ -1245,10 +1241,10 @@ h6 {
 }
 
 #faceLogo {
-    margin-left: 63%;
+    margin-left: 65%;
     float: left;
     width: 33%;
-    margin-top: -160px;
+    margin-top: -168px;
 }
 
 .impressumMail {
@@ -1304,10 +1300,19 @@ h6, p {
 }
 
 #faceLogo {
-    margin-left: 57%;
-    float: left;
-    width: 37%;
-    margin-top: -160px;
+    /* margin-left: auto; */
+    /* float: left; */
+    width: 27%;
+    margin-top: -163px;
+    margin-left: 61%;
+}
+
+#footerWeOfferLeft {
+    width: 100%;
+    height: 274px;
+    font-size: 14px;
+    margin-top: 29px;
+    /* float: left; */
 }
 
 #firstLeftContainerText {
@@ -1341,17 +1346,10 @@ h6, p {
 }
 
 #faceLogo {
-    margin-left: 55%;
+    margin-left: -13%;
     float: left;
     width: 42%;
-    margin-top: -165px;
-}
-
-.navBarLogo {
-    width: 70px;
-    height: 70px;
-    position: absolute;
-    margin-top: -26px;
+    margin-top: -56px;
 }
 
 #footerWeOfferText {
@@ -1361,6 +1359,13 @@ h6, p {
     margin-top: 27px;
     background-color: white;
     color: #df5490;
+}
+
+.navBarLogo {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    margin-top: -26px;
 }
 
 .aLogo {
@@ -1398,14 +1403,6 @@ h6, p {
     /* margin-bottom: 61px; */
     margin-left: 1%;
     margin-top: 20px;
-}
-
-#faceLogo {
-    /* margin-left: -10%; */
-    /* float: left; */
-    margin-left: -40px;
-    width: 35%;
-    margin-top: -60px;
 }
 
 #copyright {

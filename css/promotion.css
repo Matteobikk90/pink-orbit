@@ -112,7 +112,7 @@ a:hover {
 
 #faceLogo {
 
-    height: 250px;
+    height: 196px;
 }
 
 .faceIcon {
@@ -275,10 +275,21 @@ body {
 #description {
     width: 100%;
     height: 330px;
-
+}
 
 #descriptionList {
     margin-left: 15%;
+}
+
+#footerWeOffer {
+    height: 336px;
+    width: 100%;
+}
+
+#footerWeOfferLeft {
+    width: 70%;
+    height: 335px;
+    float: left;
 }
 
 #footerWeOfferText {
@@ -290,18 +301,22 @@ body {
     color: #df5490;
 }
 
-#footerWeOfferLeft {
-    width: 74%;
-    height: 335px;
+.footerWeOfferText {
+    font-size: 18px; 
+    color: #df5490;
+}
+
+.impressumMail {
+    color: #df5490;
     font-size: 18px;
-    float: left;
 }
 
 #faceLogo {
     float: right;
-    width: 25%;
-    height: 97px;
-    /* position: absolute; */
+    margin-top: 36px;
+    height: 103px;
+    width: 23%;
+    margin-top: 0px;
 }
 
 #ulStyle {
@@ -322,7 +337,7 @@ body {
     height: 121px;
     position: absolute;
     margin-left: 0%;
-    margin-top: -38px;
+    margin-top: -36px;
 }
 
 .aLogo {
@@ -331,12 +346,12 @@ body {
 }
 
 .container {
-    margin-top: 26px;
+    margin-top: 19px;
 }
 
 .navbar-default {
     background-color: white;
-    height: 100px;
+    height: 90px;
 }
 
 .navbar-brand {
@@ -390,8 +405,25 @@ h3 {
     color: #df5490;
 }
 
+#footerWeOffer {
+    height: 350px;
+    width: 100%;
+}
+
 .footerWeOfferText {
     font-size: 16px;
+}
+
+#footerWeOfferLeft {
+    width: 68%;
+    height: 177px;
+    float: left;
+}
+
+#faceLogo {
+    margin-top: -180px;
+    float: left;
+    margin-left: 71%;
 }
 
 .impressumMail {
@@ -537,18 +569,20 @@ h3 {
 }
 
 #footerWeOffer {
-    height: 369px;
+    height: 312px;
     width: 100%;
 }
 
 #footerWeOfferText {
     height: 348px;
-    width: 96%;
+    width: 94%;
     margin-left: 4%;
     margin-top: 27px;
     background-color: white;
     color: #df5490;
 }
+
+
 
 .footerWeOfferText {
     font-size: 14px;
@@ -556,18 +590,17 @@ h3 {
 
 #footerWeOfferLeft {
     width: 100%;
-    height: 335px;
+    height: 275px;
     font-size: 14px;
+    margin-top: 37px;
     /* float: left; */
 }
 
 #faceLogo {
-    /* float: left; */
     margin-left: 65%;
+    float: left;
     width: 33%;
-    margin-top: -210px;
-    text-decoration: none;
-    list-style: none;
+    margin-top: -151px;
 }
 
 .impressumMail {
@@ -600,12 +633,20 @@ h3 {
     margin-left: 0%;
     margin-top: -20px;
 }
-
 #faceLogo {
+    /* margin-left: auto; */
     /* float: left; */
-    width: 33%;
-    margin-top: -210px;
-    margin-left: 61%;
+    width: 27%;
+    margin-top: -150px;
+    margin-left: 63%;
+}
+
+#footerWeOfferLeft {
+    width: 100%;
+    height: 274px;
+    font-size: 14px;
+    margin-top: 29px;
+    /* float: left; */
 }
 
 #copyright {
