@@ -241,6 +241,19 @@ body {
 
 }
 
+@media only screen and (min-width: 1680px) {
+
+
+.navBarLogo {
+    width: 7%;
+    height: 180px;
+    position: absolute;
+    margin-left: 37.5%;
+    margin-top: -62px;
+}
+
+}
+
 @media only screen and (max-width: 1024px) {
 
 .navBarLogo {

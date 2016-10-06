@@ -183,7 +183,7 @@ a {
 }
 
 #faceLogo {
-    float: left;
+
     height: 250px;
 }
 
@@ -205,17 +205,31 @@ a {
 
 /*Media Queries*/
 
+@media only screen and (min-width: 1441px) {
+
+.navBarLogo {
+    width: 7%;
+    height: 180px;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -62px;
+}
+
+}
+
 
 @media only screen and (min-width: 1680px) {
 
 
 .navBarLogo {
-    width: 13%;
-    height: 153px;
+    width: 7%;
+    height: 180px;
     position: absolute;
-    margin-left: 40%;
-    margin-top: -64px;
+    margin-left: 38.5%;
+    margin-top: -62px;
 }
+
+
 
 #firstBackground {
     height: 900px;
@@ -281,11 +295,11 @@ a {
 @media only screen and (min-width: 1920px) {
 
 .navBarLogo {
-    width: 13%;
-    height: 153px;
+    width: 7%;
+    height: 180px;
     position: absolute;
-    margin-left: 41.5%;
-    margin-top: -64px;
+    margin-left: 40%;
+    margin-top: -62px;
 }
 
 #firstBackground {
@@ -418,11 +432,11 @@ body {
 }
 
 .navBarLogo {
-    width: 12%;
+    width: 7%;
     height: 180px;
     position: absolute;
     margin-left: 40%;
-    margin-top: -64px;
+    margin-top: -62px;
 }
 
 .container {

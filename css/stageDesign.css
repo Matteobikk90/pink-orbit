@@ -111,7 +111,7 @@ a:hover {
 }
 
 #faceLogo {
-    float: left;
+
     height: 250px;
 }
 
@@ -238,6 +238,19 @@ body {
 #ulStyle {
     text-decoration: none;
     list-style: none;
+}
+
+}
+
+@media only screen and (min-width: 1680px) {
+
+
+.navBarLogo {
+    width: 7%;
+    height: 180px;
+    position: absolute;
+    margin-left: 37.5%;
+    margin-top: -62px;
 }
 
 }
@@ -372,7 +385,7 @@ body {
 
 #firstBackground {
     height: 318px;
-    margin-top: 100px;
+    margin-top: 90px;
     width: 100%;
     background-size: cover;
     background-position: center;

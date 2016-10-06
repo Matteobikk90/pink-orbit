@@ -41,7 +41,7 @@ body {
     height: 153px;
     position: absolute;
     margin-left: 37%;
-    margin-top: -62px;
+    margin-top: -64px;
 }
 
 #faceIcon {
@@ -252,7 +252,7 @@ a:hover {
 }
 
 #faceLogo {
-    float: left;
+
     height: 250px;
 }
 
@@ -464,6 +464,19 @@ a {
 .readMoreColor {
     color: #df5490;
     font-size: 22px;
+}
+
+}
+
+@media only screen and (min-width: 1680px) {
+
+
+.navBarLogo {
+    width: 7%;
+    height: 180px;
+    position: absolute;
+    margin-left: 37.5%;
+    margin-top: -62px;
 }
 
 }
@@ -796,7 +809,7 @@ h6 {
 
 .firstLeftContainerTextFont {
     font-size: 11px;
-    margin-top: 74px;
+    margin-top: -31px;
 }
 
 #firstCenterContainer {
@@ -1111,6 +1124,11 @@ h6 {
     float: left;
     width: 100%;
     height: 500px;
+}
+
+.firstLeftContainerTextFont {
+    font-size: 11px;
+    margin-top: 51px;
 }
 
 #firstRightContainer {

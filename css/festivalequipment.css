@@ -100,7 +100,7 @@ a:hover {
     height: 335px;
     width: 56%;
     margin-left: 28%;
-    margin-top: 110px;
+    margin-top: 90px;
     background-color: white;
     color: #df5490;
 }
@@ -115,12 +115,6 @@ a:hover {
     height: 250px;
 }
 
-.faceIcon {
-    margin-top: 4px;
-    width: 33px;
-    height: 34px;
-}
-
 .impressumMail {
     color: #df5490; 
     font-size: 22px;
@@ -131,6 +125,14 @@ a:hover {
     height: 335px;
     float: left;
 }
+
+.faceIcon {
+    margin-top: 4px;
+    width: 33px;
+    height: 34px;
+}
+
+
 
 #ulStyle {
     text-decoration: none;
@@ -158,9 +160,14 @@ body {
     margin-top: -62px;
 }
 
-.aLogo {
-    width: 100%;
-    height: 100%;
+
+
+.navBarLogo {
+    width: 7%;
+    height: 180px;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -62px;
 }
 
 .container {
@@ -243,6 +250,19 @@ body {
     height: 335px;
     float: left;
 }
+}
+
+@media only screen and (min-width: 1680px) {
+
+
+.navBarLogo {
+    width: 7%;
+    height: 180px;
+    position: absolute;
+    margin-left: 37.5%;
+    margin-top: -62px;
+}
+
 }
 
 @media only screen and (max-width: 1024px) {
@@ -375,7 +395,7 @@ body {
 
 #firstBackground {
     height: 318px;
-    margin-top: 100px;
+    margin-top: 90px;
     width: 100%;
     background-size: cover;
     background-position: center;

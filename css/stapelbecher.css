@@ -49,7 +49,7 @@ a:hover {
     width: 13%;
     height: 153px;
     position: absolute;
-    margin-left: 38%;
+    margin-left: 37%;
     margin-top: -64px;
 }
 
@@ -111,7 +111,7 @@ a:hover {
 }
 
 #faceLogo {
-    float: left;
+
     height: 250px;
 }
 
@@ -193,11 +193,11 @@ body {
 }
 
 .navBarLogo {
-    width: 13%;
+    width: 7%;
     height: 180px;
     position: absolute;
     margin-left: 40%;
-    margin-top: -59px;
+    margin-top: -62px;
 }
 
 .container {
@@ -242,6 +242,19 @@ body {
 
 }
 
+@media only screen and (min-width: 1680px) {
+
+
+.navBarLogo {
+    width: 7%;
+    height: 180px;
+    position: absolute;
+    margin-left: 37.5%;
+    margin-top: -62px;
+}
+
+}
+
 @media only screen and (max-width: 1024px) {
 
 .navBarLogo {
@@ -278,6 +291,15 @@ body {
 
 #descriptionList {
     margin-left: 15%;
+}
+
+#firstBackground {
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../img/becher_HEADER.png);
+    margin-top: 123px;
 }
 
 #footerWeOfferLeft {
@@ -359,7 +381,7 @@ body {
 
 #firstBackground {
     height: 318px;
-    margin-top: 111px;
+    margin-top: 90px;
     width: 100%;
     background-size: cover;
     background-position: center;
