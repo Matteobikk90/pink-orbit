@@ -485,6 +485,16 @@ a {
 
 }
 
+@media only screen and (min-width: 2560px) {
+    .navBarLogo {
+    width: 7%;
+    height: 180px;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -62px;
+}
+}
+
 @media only screen and (max-width: 1024px) { 
 
 .navbar-default .navbar-nav>li>a {
