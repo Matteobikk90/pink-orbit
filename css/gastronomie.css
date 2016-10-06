@@ -110,7 +110,7 @@ a:hover {
 }
 
 #faceLogo {
-
+    float: left;
     height: 250px;
 }
 
@@ -215,7 +215,7 @@ body {
 }
 
 #faceLogo {
-
+    float: left;
     height: 250px;
 }
 

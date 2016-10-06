@@ -219,7 +219,7 @@ body {
 }
 
 #faceLogo {
-
+    float: left;
     height: 250px;
 }
 
@@ -253,6 +253,8 @@ body {
     margin-left: 37.5%;
     margin-top: -62px;
 }
+
+
 
 }
 
