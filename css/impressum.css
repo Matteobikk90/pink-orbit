@@ -119,16 +119,16 @@ a {
 }
 
 #footerWeOffer {
-    height: 350px;
+    height: 400px;
     width: 100%;
     
 }
 
 #footerWeOfferText {
-    height:335px;
-    width: 70%;
-    margin-left: 31%;
-    margin-top: 90px;
+    height: 335px;
+    width: 56%;
+    margin-left: 28%;
+    margin-top: 110px;
     background-color: white;
     color: #df5490;
 }
@@ -138,19 +138,15 @@ a {
     color: #df5490;
 }
 
-.impressumMail {
-    color: #df5490;
-    font-size: 18px;
-}
-
-.footerWeOfferText {
-    font-size: 18px;
-    color: #df5490;
-}
-
 #faceLogo {
-
+    float: left;
     height: 250px;
+}
+
+.faceIcon {
+    width: 34px;
+    height: 34px;
+    margin-top: 4px;
 }
 
 .impressumMail {
@@ -159,11 +155,10 @@ a {
 }
 
 #footerWeOfferLeft {
-    width: 40%;
+    width: 66%;
     height: 335px;
     float: left;
 }
-
 #copyright {
     color: #df5490;
     font-size: 12px;
