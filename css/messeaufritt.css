@@ -196,8 +196,8 @@ body {
 }
 
 .faceIcon {
-    width: 38px;
-    height: 38px;
+    width: 34px;
+    height: 34px;
     margin-top: 4px;
 }
 
@@ -226,11 +226,7 @@ body {
     height: 250px;
 }
 
-.faceIcon {
-    width: 34px;
-    height: 34px;
-    margin-top: 4px;
-}
+
 
 .impressumMail {
     color: #df5490; 

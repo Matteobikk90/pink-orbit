@@ -252,7 +252,7 @@ a:hover {
 }
 
 #faceLogo {
-
+    float: left;
     height: 250px;
 }
 
@@ -297,6 +297,12 @@ a {
     position: absolute;
     margin-left: 40%;
     margin-top: -62px;
+}
+
+.faceIcon {
+    width: 34px;
+    height: 34px;
+    margin-top: 4px;
 }
 
 .container {
